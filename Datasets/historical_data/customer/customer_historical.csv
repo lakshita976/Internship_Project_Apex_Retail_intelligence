@@ -1,0 +1,1053 @@
+customer_id,age,gender,income_bracket,loyalty_program,membership_years,churned,marital_status,number_of_children,education_level,occupation,customer_zip_code,customer_city,customer_state
+1,56,Other,High,No,0,No,Divorced,3,Bachelor's,Self-Employed,37848,City D,State Y
+2,69,Female,Medium,No,2,No,Married,2,PhD,Unemployed,44896,,State X
+3,46,Female,Low,No,5,No,Married,3,Bachelor's,Self-Employed,11816,City B,State X
+4,32,Female,Low,No,0,No,Divorced,2,Master's,Employed,78604,City A,State Y
+5,60,Female,,Yes,7,Yes,Divorced,2,Bachelor's,Employed,17760,City B,State Z
+6,25,Other,Medium,Yes,4,Yes,Divorced,0,Bachelor's,Unemployed,54549,City D,State Z
+7,78,Male,High,No,0,No,Single,2,Master's,Retired,76235,City D,State X
+8,38,,Low,Yes,2,No,Married,1,Master's,Employed,52863,City B,State Y
+9,56,Female,Low,No,0,No,Single,4,PhD,Self-Employed,65537,City C,State Y
+10,75,Male,Medium,No,3,No,Married,2,High School,Self-Employed,43331,City C,State X
+11,36,Female,Low,No,1,No,Divorced,1,Bachelor's,,11562,City C,State Z
+12,40,Female,High,No,2,No,Single,0,High School,Employed,93685,City A,State X
+13,28,Other,Medium,Yes,7,No,Single,2,Master's,Unemployed,32141,City D,State Y
+14,28,Male,Low,No,6,Yes,Single,3,Master's,Employed,80781,City C,State Y
+15,41,Male,Medium,No,7,No,Divorced,3,PhD,Employed,70478,City D,State Z
+16,70,Male,Medium,No,9,Yes,Divorced,4,High School,Retired,46924,City A,State Z
+17,53,Female,Medium,Yes,9,Yes,Divorced,1,Bachelor's,Retired,40401,City D,State Z
+18,57,Male,Low,No,6,No,Divorced,0,High School,Employed,52762,City D,State X
+19,41,Other,Medium,No,9,Yes,Divorced,0,Bachelor's,Employed,38197,City A,State X
+20,20,Male,Low,No,7,No,Single,3,PhD,Unemployed,47478,City D,State Y
+21,39,Female,High,Yes,9,Yes,Divorced,0,PhD,Employed,74500,City D,State Y
+22,70,Male,High,No,8,No,Divorced,0,Bachelor's,Employed,69058,City C,State Z
+23,19,Other,Low,No,1,No,Divorced,1,High School,Unemployed,58301,City A,State Z
+24,41,Male,Low,Yes,8,No,Single,0,High School,Retired,21585,City C,State Z
+25,61,Female,Medium,No,9,Yes,Single,4,PhD,Unemployed,80677,City A,State Z
+26,47,Male,High,No,4,Yes,Single,0,High School,Retired,79310,City D,State Z
+27,55,Other,Low,No,8,Yes,Married,3,High School,Self-Employed,63089,City A,State X
+28,19,Other,Low,Yes,0,No,Married,4,PhD,Self-Employed,64368,City C,State Z
+29,77,Male,Low,No,7,No,Single,1,Bachelor's,Retired,49343,City C,State Z
+30,38,Female,Low,Yes,5,No,Divorced,2,High School,Unemployed,66903,City C,State Y
+31,50,Male,Low,Yes,4,Yes,Married,4,PhD,Self-Employed,67111,City C,State Y
+32,29,Other,Medium,No,3,No,Married,0,Bachelor's,Employed,61623,City D,State X
+33,75,Other,High,No,9,Yes,Single,0,High School,Self-Employed,33297,City B,State Z
+34,39,Female,High,Yes,0,Yes,Divorced,0,Master's,Unemployed,26320,City D,State X
+35,78,Other,Low,No,1,No,Single,3,Bachelor's,Employed,94542,City A,State Y
+36,61,Other,Low,Yes,0,Yes,Married,4,Bachelor's,Self-Employed,28124,City D,State X
+37,42,Male,Low,No,3,Yes,Married,3,High School,Retired,32593,City B,State Y
+38,66,Other,High,No,0,Yes,Married,1,PhD,Employed,55973,City B,State Z
+39,44,Male,Medium,No,4,Yes,Divorced,2,High School,Unemployed,62306,City D,State Y
+40,76,Other,High,Yes,6,No,Single,4,Master's,Retired,26972,City C,State X
+41,59,Male,High,No,2,No,Married,2,PhD,Employed,17351,City D,State Y
+42,45,Male,High,Yes,4,Yes,Married,2,Master's,Self-Employed,67043,City A,State X
+43,77,Other,High,Yes,3,No,Single,1,PhD,Self-Employed,62751,City D,State Y
+44,33,Other,Medium,Yes,8,Yes,Divorced,3,PhD,Employed,38995,City C,State X
+45,32,Female,High,No,1,No,Single,4,Master's,Unemployed,66432,City B,State Y
+46,79,Female,High,Yes,3,No,Married,1,Master's,Unemployed,49394,City C,State Z
+47,79,Male,Low,Yes,5,No,Married,0,PhD,Self-Employed,64680,City D,State X
+48,64,Male,Low,No,3,Yes,Single,0,PhD,Unemployed,10997,City A,State X
+49,79,Other,Low,No,9,No,Married,0,PhD,Self-Employed,43560,City A,State X
+50,68,Male,Medium,Yes,0,No,Single,1,PhD,Employed,71882,City B,State Y
+51,61,Female,Medium,Yes,2,No,Divorced,0,Master's,Self-Employed,24662,City C,State Z
+52,72,Male,Medium,Yes,8,Yes,Married,1,Master's,Self-Employed,90106,City B,State X
+53,69,Male,High,Yes,5,No,Married,1,High School,Employed,73957,City C,State Z
+54,74,Male,Low,No,9,Yes,Divorced,1,Bachelor's,Self-Employed,78757,City D,State X
+55,20,Male,High,No,6,No,Single,1,Bachelor's,Retired,55287,City C,State Y
+56,54,Female,Low,No,1,Yes,Single,0,Bachelor's,Unemployed,70894,City D,State X
+57,68,Other,Low,Yes,8,No,Single,3,High School,Retired,10347,City D,State Z
+58,24,Other,Low,No,2,No,Single,1,Master's,Unemployed,39795,City B,State Y
+59,38,Male,High,No,6,No,Divorced,0,Bachelor's,Retired,87812,City A,State Z
+60,26,Female,High,No,6,No,Divorced,2,PhD,Self-Employed,98831,City B,State Y
+61,56,Female,Medium,No,3,Yes,Divorced,3,PhD,Employed,74012,City D,State Z
+62,35,Female,High,No,5,Yes,Divorced,3,PhD,Unemployed,49612,City B,State X
+63,21,Male,High,Yes,2,No,Divorced,2,Bachelor's,Self-Employed,59175,City D,State X
+64,42,Male,Medium,Yes,2,Yes,Divorced,3,Bachelor's,Retired,10545,City D,State Z
+65,77,Female,Low,No,1,No,Divorced,4,High School,Employed,42205,City B,State Y
+66,31,Male,Low,No,9,Yes,Married,4,Bachelor's,Unemployed,59026,City C,State Z
+67,67,Other,High,Yes,7,Yes,Married,2,PhD,Employed,63036,City C,State X
+68,75,Other,Medium,No,0,No,Married,0,Bachelor's,Retired,60429,City C,State X
+69,26,Male,High,Yes,5,No,Single,4,High School,Retired,26009,City A,State X
+70,43,Other,Medium,No,7,Yes,Single,1,Master's,Self-Employed,88376,City A,State Y
+71,70,Other,Low,Yes,9,Yes,Divorced,0,High School,Self-Employed,51383,City B,State X
+72,19,Male,High,Yes,0,No,Married,2,PhD,Retired,64436,City D,State Y
+73,37,Female,Low,No,4,Yes,Single,4,Bachelor's,Retired,19184,City A,State Z
+74,45,Other,Medium,Yes,2,Yes,Single,4,Master's,Self-Employed,14576,City C,State X
+75,64,Male,High,Yes,3,Yes,Divorced,3,Bachelor's,Retired,72244,City C,State Y
+76,77,Male,Low,Yes,5,Yes,Divorced,1,Bachelor's,Retired,78941,City B,State Z
+77,24,Other,High,No,8,Yes,Single,3,Bachelor's,Retired,14018,City C,State X
+78,61,Other,Medium,No,0,Yes,Divorced,4,Bachelor's,Employed,37334,City C,State X
+79,78,Female,High,No,3,Yes,Divorced,3,Master's,Retired,24625,City D,State X
+80,25,Other,High,No,6,No,Divorced,1,Bachelor's,Retired,82567,City C,State Z
+81,64,Other,High,No,1,No,Married,1,Bachelor's,Self-Employed,16272,City B,State X
+82,52,Other,Medium,Yes,4,No,Married,2,Master's,Self-Employed,23663,City B,State Y
+83,31,Female,High,Yes,1,Yes,Married,2,High School,Unemployed,41100,City C,State Y
+84,34,Male,Medium,Yes,0,Yes,Divorced,2,PhD,Retired,47355,City A,State X
+85,53,Other,Low,No,6,Yes,Single,0,PhD,Employed,86461,City B,State Z
+86,67,Male,Low,No,8,No,Married,4,High School,Employed,94018,City B,State Z
+87,57,Other,Medium,Yes,4,Yes,Married,3,Bachelor's,Unemployed,45889,City C,State Y
+88,21,Male,Low,Yes,7,Yes,Single,4,Bachelor's,Self-Employed,61913,City A,State Y
+89,19,Female,High,Yes,8,Yes,Single,4,High School,Self-Employed,30431,City C,State X
+90,79,Male,Low,No,1,Yes,Divorced,3,Bachelor's,Employed,73620,City C,State Y
+91,23,Female,High,Yes,0,No,Single,3,PhD,Employed,41040,City C,State Y
+92,71,Other,High,Yes,9,Yes,Married,4,Master's,Employed,56439,City D,State Z
+93,59,Other,High,No,2,Yes,Single,4,High School,Self-Employed,36460,City A,State Z
+94,21,Male,Medium,Yes,2,No,Single,4,Bachelor's,Employed,98097,City C,State X
+95,71,Female,High,Yes,2,Yes,Single,2,High School,Retired,39789,City C,State X
+96,46,Other,High,No,1,Yes,Married,1,Bachelor's,Unemployed,95833,City B,State X
+97,35,Other,Low,Yes,2,Yes,Divorced,0,PhD,Unemployed,92325,City A,State Y
+98,43,Other,Medium,No,4,No,Married,1,Bachelor's,Employed,76043,City A,State Y
+99,61,Male,Low,Yes,9,No,Married,1,Master's,Self-Employed,34440,City B,State Z
+100,51,Male,Low,Yes,4,Yes,Married,1,High School,Unemployed,40643,City A,State X
+101,27,Female,Medium,Yes,8,Yes,Single,2,PhD,Unemployed,25576,City A,State Y
+102,79,Other,Medium,No,1,No,Married,2,PhD,Unemployed,82395,City A,State X
+103,53,Male,High,Yes,1,No,Divorced,1,Bachelor's,Retired,53988,City D,State Y
+104,31,Other,High,No,2,Yes,Married,1,PhD,Employed,17557,City B,State Z
+105,48,Other,Low,Yes,6,No,Single,2,Bachelor's,Employed,40037,City A,State X
+106,65,Female,High,Yes,7,No,Single,2,Bachelor's,Self-Employed,54445,City D,State X
+107,32,Other,Low,No,1,Yes,Married,0,Master's,Self-Employed,41707,City C,State Z
+108,25,Male,Low,Yes,8,No,Married,1,Bachelor's,Employed,59599,City B,State Y
+109,31,Other,High,No,0,Yes,Married,3,Bachelor's,Employed,57747,City B,State Y
+110,40,Female,Low,No,4,Yes,Divorced,1,High School,Retired,86630,City C,State X
+111,77,Male,Low,No,5,Yes,Divorced,1,PhD,Unemployed,72249,City A,State X
+112,74,Female,Medium,No,8,Yes,Single,1,Bachelor's,Unemployed,84392,City C,State X
+113,79,Male,Low,No,8,No,Single,0,Bachelor's,Self-Employed,39294,City A,State Y
+114,57,Other,High,No,4,Yes,Divorced,0,Bachelor's,Retired,90808,City D,State X
+115,38,Other,Medium,Yes,0,No,Married,1,Bachelor's,Employed,46654,City A,State Z
+116,33,Female,Low,No,7,No,Married,2,High School,Employed,90881,City B,State Z
+117,62,Other,High,Yes,0,Yes,Single,4,Master's,Employed,51370,City C,State Z
+118,35,Male,Medium,Yes,0,Yes,Single,0,Master's,Unemployed,76247,City C,State Y
+119,64,Other,Medium,Yes,2,No,Married,2,High School,Employed,37177,City D,State Y
+120,70,Male,Medium,Yes,6,Yes,Divorced,3,Bachelor's,Employed,69001,City B,State X
+121,41,Other,High,No,0,No,Single,2,Bachelor's,Unemployed,23240,City D,State X
+122,43,Female,Medium,No,4,Yes,Divorced,4,High School,Employed,97988,City C,State Z
+123,42,Male,High,Yes,7,Yes,Single,1,High School,Employed,55966,City B,State Y
+124,77,Male,Low,No,5,No,Married,2,Master's,Employed,80279,City C,State Z
+125,77,Other,Low,Yes,5,No,Married,2,High School,Employed,61138,City A,State X
+126,77,Other,High,No,8,No,Married,0,Master's,Retired,66719,City A,State X
+127,62,Male,Low,No,3,No,Divorced,3,High School,Retired,15736,City D,State Z
+128,58,Male,Low,Yes,8,No,Single,4,Bachelor's,Employed,95408,City D,State Y
+129,46,Female,High,Yes,9,No,Married,2,Bachelor's,Unemployed,35890,City A,State Y
+130,32,Male,Low,No,5,No,Single,3,Master's,Retired,19124,City B,State X
+131,62,Other,High,Yes,2,No,Single,2,Master's,Unemployed,49009,City A,State Z
+132,18,Female,Medium,No,8,Yes,Married,3,Master's,Self-Employed,52282,City C,State X
+133,42,Male,Low,Yes,8,No,Single,1,PhD,Employed,54241,City A,State X
+134,24,Female,Low,Yes,7,Yes,Married,0,High School,Employed,32155,City A,State Y
+135,26,Male,High,Yes,3,Yes,Divorced,4,High School,Unemployed,85307,City B,State X
+136,41,Male,Low,No,0,Yes,Single,2,Master's,Retired,28201,City A,State X
+137,18,Female,Low,No,5,Yes,Married,2,Master's,Self-Employed,95389,City B,State X
+138,61,Female,High,Yes,6,Yes,Divorced,1,PhD,Retired,49849,City B,State Z
+139,25,Male,Medium,No,1,No,Single,3,PhD,Unemployed,29639,City C,State Z
+140,41,Other,Low,No,4,Yes,Single,0,Master's,Self-Employed,35497,City B,State X
+141,28,Male,Low,No,3,No,Single,0,PhD,Unemployed,31564,City D,State Z
+142,68,Female,Medium,No,0,No,Divorced,4,PhD,Retired,80810,City A,State Y
+143,34,Other,Low,Yes,0,Yes,Married,1,Master's,Self-Employed,45173,City C,State X
+144,25,Other,High,Yes,8,No,Married,3,Master's,Self-Employed,65308,City A,State X
+145,52,Other,High,No,7,No,Married,0,PhD,Self-Employed,44578,City C,State Z
+146,52,Male,Low,No,2,No,Married,3,PhD,Unemployed,54359,City A,State X
+147,50,Female,Medium,No,0,Yes,Married,2,Bachelor's,Self-Employed,67790,City A,State X
+148,76,Other,High,No,8,Yes,Married,1,Master's,Unemployed,94201,City B,State X
+149,22,Male,Low,No,2,No,Married,1,Master's,Self-Employed,52494,City A,State X
+150,59,Male,Low,No,8,No,Divorced,2,High School,Unemployed,22592,City A,State Z
+151,56,Male,Medium,No,1,No,Married,3,Bachelor's,Employed,67472,City B,State X
+152,75,Other,Low,No,3,No,Divorced,3,Master's,Self-Employed,99994,City B,State Y
+153,58,Other,High,No,2,No,Divorced,4,Bachelor's,Self-Employed,85876,City A,State Y
+154,45,Male,Medium,No,3,No,Single,1,High School,Unemployed,20930,City D,State X
+155,24,Other,High,No,5,No,Married,3,PhD,Unemployed,16081,City C,State Y
+156,26,Male,High,No,3,No,Married,4,Master's,Retired,79294,City B,State Z
+157,25,Female,High,No,1,Yes,Single,4,Bachelor's,Self-Employed,29737,City C,State Y
+158,29,Female,Medium,No,6,Yes,Single,3,High School,Unemployed,92145,City C,State X
+159,51,Male,Medium,No,0,Yes,Single,4,PhD,Retired,34294,City B,State X
+160,50,Male,Low,Yes,5,No,Married,2,High School,Employed,60435,City C,State Y
+161,65,Male,Low,Yes,1,No,Single,0,Master's,Unemployed,11165,City B,State X
+162,72,Male,Low,No,5,No,Single,3,PhD,Retired,99505,City D,State Z
+163,40,Other,Low,Yes,9,No,Divorced,3,Master's,Unemployed,27324,City A,State X
+164,79,Female,Low,Yes,5,No,Married,3,High School,Unemployed,79546,City B,State X
+165,41,Other,Medium,No,7,No,Single,2,Bachelor's,Employed,29687,City C,State X
+166,54,Female,Low,No,7,No,Divorced,3,Master's,Unemployed,29969,City B,State Y
+167,52,Female,Medium,No,4,Yes,Divorced,4,PhD,Employed,76828,City A,State Y
+168,61,Other,Medium,Yes,1,Yes,Single,3,Bachelor's,Unemployed,69849,City D,State X
+169,57,Male,Low,Yes,4,Yes,Single,3,Master's,Retired,26487,City B,State Y
+170,39,Other,Low,No,6,No,Married,2,High School,Unemployed,41628,City B,State Z
+171,44,Female,Medium,No,4,Yes,Divorced,2,Bachelor's,Unemployed,58907,City B,State X
+172,52,Other,Medium,Yes,4,No,Married,1,High School,Retired,58633,City A,State X
+173,18,Female,Low,Yes,0,Yes,Married,0,High School,Unemployed,77853,City C,State X
+174,52,Female,High,No,0,No,Single,4,High School,Unemployed,94223,City A,State X
+175,54,Female,High,Yes,8,No,Married,0,Bachelor's,Retired,90373,City A,State X
+176,64,Male,High,No,4,No,Divorced,2,Master's,Unemployed,11884,City A,State Y
+177,31,Other,High,No,9,Yes,Divorced,2,Master's,Employed,43621,City C,State X
+178,20,Male,Low,Yes,6,No,Divorced,0,High School,Retired,83856,City A,State Z
+179,18,Male,Low,Yes,2,Yes,Single,3,Bachelor's,Unemployed,20819,City A,State Y
+180,22,Female,Low,Yes,1,Yes,Divorced,1,PhD,Self-Employed,41837,City C,State X
+181,43,Female,Low,No,6,Yes,Divorced,4,Bachelor's,Retired,70554,City B,State X
+182,72,Male,Low,No,9,No,Single,1,Bachelor's,Retired,36535,City B,State X
+183,31,Male,High,No,3,No,Divorced,3,Master's,Employed,88790,City D,State Z
+184,56,Other,Medium,Yes,6,No,Divorced,0,Master's,Unemployed,11907,City A,State Y
+185,44,Male,High,Yes,0,Yes,Married,1,Bachelor's,Employed,67450,City B,State X
+186,26,Female,Medium,No,6,Yes,Single,4,Master's,Unemployed,68808,City A,State Y
+187,32,Other,Medium,Yes,1,No,Married,2,High School,Employed,83469,City B,State Y
+188,32,Male,Low,Yes,6,Yes,Single,4,PhD,Self-Employed,39889,City C,State Z
+189,43,Other,High,No,2,Yes,Single,1,Master's,Retired,97726,City A,State X
+190,59,Male,High,Yes,7,Yes,Single,3,PhD,Employed,62544,City B,State Y
+191,77,Male,Low,No,0,No,Single,2,Master's,Self-Employed,51224,City C,State X
+192,30,Male,Medium,No,1,No,Married,1,Master's,Retired,53724,City A,State Z
+193,68,Other,High,No,2,No,Divorced,1,High School,Unemployed,20454,City A,State Z
+194,49,Female,Low,No,1,Yes,Divorced,1,High School,Unemployed,81109,City C,State Z
+195,56,Female,Low,Yes,8,No,Divorced,1,High School,Self-Employed,25541,City D,State Z
+196,66,Other,Low,Yes,5,Yes,Single,0,High School,Retired,90119,City C,State Z
+197,69,Male,Low,No,4,No,Single,4,Bachelor's,Employed,33370,City A,State X
+198,78,Female,Medium,No,4,No,Married,4,Bachelor's,Employed,31659,City A,State Y
+199,49,Male,High,No,5,No,Married,2,PhD,Self-Employed,75000,City B,State X
+200,21,Other,High,No,3,No,Married,3,High School,Retired,55281,City B,State Y
+201,47,Female,Low,Yes,7,No,Married,0,Master's,Unemployed,19318,City A,State Z
+202,54,Male,Low,No,4,No,Married,3,Bachelor's,Self-Employed,31171,City B,State Z
+203,40,Male,Medium,Yes,1,No,Divorced,0,Bachelor's,Self-Employed,47233,City C,State X
+204,56,Other,Medium,Yes,8,No,Married,3,High School,Employed,10172,City B,State Z
+205,62,Female,Low,No,9,No,Married,4,Bachelor's,Employed,83573,City C,State X
+206,32,Female,Low,No,7,No,Married,2,High School,Unemployed,99557,City B,State X
+207,60,Female,High,Yes,5,Yes,Married,0,PhD,Employed,68571,City C,State X
+208,46,Male,Medium,Yes,8,No,Married,4,PhD,Retired,60455,City D,State Z
+209,53,Other,High,Yes,0,Yes,Single,4,High School,Self-Employed,94443,City D,State Y
+210,30,Male,Low,No,8,Yes,Married,0,High School,Self-Employed,70529,City B,State Z
+211,49,Female,Medium,Yes,9,No,Married,3,Bachelor's,Retired,27614,City B,State Z
+212,24,Other,High,No,2,No,Divorced,3,PhD,Unemployed,61433,City D,State X
+213,76,Other,High,No,5,Yes,Married,4,High School,Employed,22587,City D,State Y
+214,68,Other,Low,Yes,3,Yes,Single,4,High School,Unemployed,78912,City A,State Z
+215,39,Male,Medium,Yes,7,No,Single,2,PhD,Unemployed,37532,City C,State X
+216,45,Other,High,Yes,0,No,Single,4,High School,Unemployed,32215,City D,State Z
+217,19,Male,Low,Yes,1,Yes,Divorced,2,PhD,Self-Employed,58859,City C,State Z
+218,59,Male,Low,No,0,No,Married,3,High School,Employed,78113,City C,State Y
+219,62,Other,Medium,No,9,No,Married,4,High School,Unemployed,47764,City A,State Y
+220,79,Female,Medium,No,8,No,Married,1,PhD,Self-Employed,95042,City A,State Z
+221,74,Other,Low,No,8,Yes,Divorced,0,Bachelor's,Self-Employed,42714,City B,State Y
+222,70,Male,Medium,Yes,1,No,Divorced,1,Master's,Employed,24249,City D,State Y
+223,23,Female,High,No,5,No,Married,2,Master's,Self-Employed,91067,City D,State Y
+224,45,Female,Low,Yes,0,Yes,Single,4,Master's,Unemployed,99333,City B,State Y
+225,45,Other,High,Yes,7,No,Divorced,0,High School,Employed,15608,City A,State X
+226,61,Female,Medium,Yes,8,Yes,Single,4,PhD,Retired,75541,City C,State X
+227,61,Male,High,No,0,Yes,Divorced,3,PhD,Unemployed,25333,City D,State X
+228,37,Male,Low,No,6,No,Single,0,Master's,Retired,94878,City B,State Z
+229,47,Male,Low,No,5,Yes,Single,3,PhD,Retired,16303,City C,State Y
+230,79,Male,Low,No,8,Yes,Married,4,Bachelor's,Unemployed,92210,City A,State X
+231,28,Female,High,No,1,No,Single,2,PhD,Self-Employed,87651,City C,State Y
+232,75,Male,Medium,Yes,5,Yes,Divorced,1,Bachelor's,Employed,55673,City D,State Z
+233,72,Male,Medium,Yes,5,Yes,Divorced,0,Master's,Self-Employed,64498,City C,State X
+234,45,Male,Medium,No,3,No,Married,1,Bachelor's,Retired,29329,City C,State Y
+235,42,Male,High,No,8,No,Divorced,4,Bachelor's,Employed,49561,City B,State Y
+236,56,Male,Low,No,9,Yes,Married,0,High School,Retired,19337,City D,State X
+237,79,Male,High,Yes,1,No,Married,1,PhD,Unemployed,91859,City A,State Z
+238,50,Male,High,No,2,No,Married,1,High School,Unemployed,44977,City B,State Z
+239,18,Other,Low,Yes,5,Yes,Married,1,Bachelor's,Self-Employed,23563,City B,State Y
+240,74,Female,Low,No,0,Yes,Single,1,PhD,Self-Employed,75737,City C,State Y
+241,44,Male,Medium,No,7,No,Married,3,Bachelor's,Unemployed,68282,City A,State Z
+242,79,Other,High,No,9,No,Married,1,High School,Unemployed,33347,City D,State Z
+243,74,Female,Low,No,2,Yes,Single,2,Master's,Retired,50302,City B,State X
+244,69,Other,Medium,Yes,8,No,Divorced,4,Master's,Employed,73858,City B,State Z
+245,30,Other,High,No,3,No,Single,0,Bachelor's,Employed,56915,City B,State X
+246,58,Male,Medium,No,4,No,Married,3,PhD,Unemployed,55442,City D,State X
+247,20,Other,Low,No,5,Yes,Single,3,High School,Self-Employed,19128,City C,State X
+248,56,Other,High,Yes,9,Yes,Married,0,PhD,Retired,96765,City A,State Y
+249,23,Other,High,Yes,8,Yes,Divorced,1,Master's,Retired,52177,City C,State Y
+250,25,Male,Medium,No,7,No,Single,2,High School,Employed,50903,City A,State Z
+251,44,Male,Low,No,1,Yes,Married,1,PhD,Employed,46997,City D,State X
+252,26,Male,Low,Yes,7,No,Single,3,High School,Self-Employed,13126,City B,State Z
+253,79,Male,High,No,3,No,Divorced,2,High School,Retired,44254,City C,State X
+254,54,Other,Low,No,8,No,Married,4,High School,Retired,75321,City B,State Y
+255,50,Other,Low,Yes,0,No,Single,4,PhD,Self-Employed,36978,City D,State Y
+256,68,Other,Low,Yes,2,Yes,Divorced,3,Bachelor's,Retired,46968,City C,State X
+257,59,Other,Medium,Yes,3,Yes,Married,1,Bachelor's,Self-Employed,89721,City A,State Y
+258,61,Female,High,Yes,2,Yes,Single,0,High School,Employed,41503,City D,State Y
+259,41,Female,Medium,No,8,Yes,Single,4,Master's,Unemployed,49273,City B,State Z
+260,32,Other,High,Yes,3,Yes,Divorced,1,PhD,Employed,31814,City D,State X
+261,76,Male,Low,No,9,Yes,Married,0,High School,Retired,46823,City A,State Y
+262,71,Other,High,Yes,4,No,Single,2,Master's,Retired,82103,City B,State Z
+263,49,Other,Low,Yes,7,Yes,Divorced,4,Bachelor's,Employed,41628,City D,State Y
+264,49,Female,High,No,2,Yes,Married,3,Master's,Employed,96823,City C,State X
+265,41,Male,Low,Yes,6,Yes,Married,0,Bachelor's,Unemployed,71382,City D,State X
+266,58,Other,Low,No,9,Yes,Divorced,1,High School,Retired,50888,City A,State X
+267,69,Male,High,No,1,Yes,Single,2,Master's,Retired,20439,City B,State Z
+268,66,Other,Medium,Yes,3,Yes,Married,0,High School,Unemployed,57336,City D,State X
+269,79,Male,Medium,No,0,No,Married,2,High School,Unemployed,85410,City A,State Y
+270,66,Other,Medium,No,4,Yes,Married,0,Bachelor's,Self-Employed,71418,City A,State Y
+271,75,Male,Medium,No,5,No,Married,1,PhD,Self-Employed,42546,City D,State Y
+272,69,Female,Low,No,2,No,Divorced,4,Master's,Retired,75275,City B,State X
+273,29,Other,Low,No,0,Yes,Single,2,PhD,Unemployed,75703,City A,State Z
+274,79,Male,Medium,Yes,4,No,Single,3,PhD,Retired,98549,City C,State Z
+275,56,Other,Low,Yes,3,No,Married,3,Master's,Retired,74469,City D,State X
+276,19,Female,Medium,Yes,2,Yes,Divorced,4,High School,Employed,12570,City A,State X
+277,20,Other,High,Yes,4,No,Divorced,1,High School,Unemployed,31033,City C,State X
+278,66,Male,Low,No,5,No,Divorced,1,Master's,Unemployed,38749,City A,State Y
+279,54,Female,High,No,2,Yes,Single,0,Master's,Retired,71989,City A,State Y
+280,66,Other,Low,Yes,7,Yes,Married,1,Bachelor's,Unemployed,25736,City D,State Z
+281,73,Female,High,No,6,No,Married,4,PhD,Retired,90151,City C,State Y
+282,34,Female,High,Yes,8,No,Single,4,PhD,Self-Employed,62898,City B,State X
+283,76,Female,High,Yes,3,No,Married,0,High School,Employed,55183,City B,State Y
+284,66,Other,Low,No,1,No,Divorced,0,Bachelor's,Unemployed,69561,City D,State Y
+285,19,Other,Low,Yes,2,Yes,Single,0,Bachelor's,Unemployed,63486,City B,State Z
+286,19,Female,Low,Yes,8,Yes,Married,0,Master's,Self-Employed,60195,City B,State X
+287,45,Female,Medium,Yes,6,No,Married,0,High School,Unemployed,98684,City C,State X
+288,71,Other,Medium,No,8,No,Married,4,Bachelor's,Self-Employed,23694,City C,State X
+289,40,Female,High,Yes,1,No,Single,2,Master's,Self-Employed,15626,City B,State X
+290,54,Female,High,No,8,Yes,Married,2,PhD,Retired,33745,City B,State Y
+291,49,Female,Low,Yes,3,Yes,Single,2,Master's,Self-Employed,73292,City B,State Y
+292,50,Other,Medium,Yes,0,No,Divorced,2,Master's,Employed,35572,City C,State Y
+293,18,Other,High,Yes,2,Yes,Married,3,High School,Self-Employed,12182,City A,State Y
+294,36,Female,Low,Yes,6,Yes,Divorced,0,PhD,Employed,58712,City D,State Z
+295,79,Male,Low,No,0,Yes,Married,0,Master's,Retired,85932,City D,State Y
+296,19,Female,Medium,No,4,Yes,Divorced,0,Master's,Retired,57665,City D,State X
+297,70,Female,Medium,No,5,Yes,Married,2,Master's,Employed,21141,City A,State Z
+298,61,Other,Medium,No,0,No,Married,3,PhD,Retired,61736,City D,State X
+299,43,Other,Medium,Yes,1,Yes,Single,2,PhD,Retired,23325,City D,State X
+300,49,Female,Medium,No,9,No,Divorced,2,Master's,Self-Employed,52675,City B,State Z
+301,23,Female,Medium,Yes,5,Yes,Single,4,Bachelor's,Self-Employed,59588,City A,State X
+302,49,Other,Low,Yes,1,No,Divorced,3,Bachelor's,Employed,16419,City B,State Y
+303,72,Female,Medium,No,7,No,Divorced,0,Bachelor's,Unemployed,83655,City C,State X
+304,21,Other,Low,No,2,Yes,Divorced,2,Bachelor's,Self-Employed,28940,City B,State X
+305,72,Other,Medium,No,0,No,Married,1,PhD,Retired,11142,City D,State X
+306,28,Female,Low,No,8,Yes,Divorced,3,PhD,Unemployed,68165,City D,State X
+307,73,Female,Low,No,9,No,Single,0,PhD,Self-Employed,79987,City C,State Z
+308,76,Other,High,No,2,Yes,Single,1,Bachelor's,Retired,76213,City A,State X
+309,34,Other,Medium,No,2,Yes,Single,1,Master's,Self-Employed,18923,City C,State Z
+310,55,Female,Low,Yes,7,No,Divorced,0,Master's,Employed,13711,City D,State Y
+311,41,Female,Medium,No,0,No,Single,2,Bachelor's,Self-Employed,40890,City B,State X
+312,22,Female,High,No,6,No,Married,2,High School,Unemployed,66133,City D,State Z
+313,69,Female,Low,Yes,9,No,Single,4,PhD,Self-Employed,77800,City B,State Z
+314,51,Other,Medium,Yes,8,No,Single,2,High School,Retired,22684,City D,State Z
+315,23,Female,High,No,6,Yes,Married,2,Bachelor's,Self-Employed,78330,City B,State X
+316,39,Other,High,Yes,2,No,Divorced,2,Bachelor's,Employed,97630,City B,State Y
+317,28,Other,Low,No,3,No,Single,0,Bachelor's,Employed,79222,City D,State X
+318,65,Male,Medium,No,2,No,Single,2,Bachelor's,Retired,91555,City B,State X
+319,33,Other,Medium,Yes,9,No,Single,4,Master's,Unemployed,50297,City C,State Y
+320,50,Other,Medium,No,0,No,Single,0,PhD,Employed,25855,City D,State X
+321,26,Male,Medium,No,4,Yes,Single,1,High School,Self-Employed,93455,City A,State X
+322,77,Other,Medium,No,6,No,Single,1,Master's,Retired,57939,City C,State Z
+323,76,Other,High,No,6,No,Single,2,Bachelor's,Unemployed,42063,City A,State Z
+324,23,Other,Medium,Yes,3,No,Divorced,3,Bachelor's,Retired,94195,City C,State Y
+325,33,Male,Medium,Yes,5,Yes,Married,3,PhD,Employed,10455,City B,State Z
+326,46,Male,Medium,Yes,1,Yes,Married,0,PhD,Retired,24338,City D,State X
+327,20,Male,High,No,9,Yes,Married,2,High School,Self-Employed,82634,City D,State Z
+328,37,Female,Medium,Yes,2,Yes,Single,1,Master's,Unemployed,64526,City B,State Y
+329,77,Other,High,Yes,5,Yes,Divorced,4,High School,Self-Employed,81355,City B,State X
+330,76,Other,Low,No,8,Yes,Divorced,1,PhD,Unemployed,42066,City D,State X
+331,53,Other,High,No,5,Yes,Single,2,PhD,Unemployed,95875,City D,State Y
+332,36,Other,Medium,Yes,8,No,Single,4,High School,Employed,57163,City C,State Z
+333,43,Other,Medium,No,2,Yes,Married,4,Bachelor's,Unemployed,44157,City B,State Z
+334,20,Male,Low,No,4,Yes,Married,4,Bachelor's,Employed,90402,City B,State Y
+335,36,Other,High,Yes,2,No,Single,2,High School,Self-Employed,35933,City B,State Y
+336,37,Male,Low,No,7,Yes,Single,4,High School,Self-Employed,75238,City D,State X
+337,49,Female,High,No,4,No,Divorced,2,PhD,Retired,83589,City D,State Z
+338,24,Male,High,Yes,0,Yes,Married,1,High School,Retired,74131,City A,State Y
+339,69,Female,Low,Yes,6,Yes,Married,4,PhD,Retired,96526,City A,State Z
+340,58,Male,Low,Yes,9,No,Divorced,2,High School,Retired,74623,City A,State Y
+341,50,Other,Medium,Yes,9,Yes,Single,4,Bachelor's,Self-Employed,89288,City B,State X
+342,57,Male,Low,No,0,Yes,Divorced,4,High School,Retired,67814,City C,State X
+343,56,Other,Medium,Yes,3,Yes,Single,0,PhD,Employed,86611,City D,State Z
+344,35,Other,Medium,No,4,Yes,Married,0,Bachelor's,Employed,30110,City C,State X
+345,57,Male,High,Yes,7,Yes,Divorced,4,Bachelor's,Employed,62310,City B,State X
+346,18,Male,High,Yes,2,No,Divorced,3,Bachelor's,Unemployed,27420,City B,State X
+347,28,Other,Low,No,8,Yes,Married,0,High School,Self-Employed,67348,City C,State Y
+348,45,Male,Low,Yes,0,No,Single,0,Bachelor's,Employed,67882,City B,State Z
+349,74,Other,Medium,Yes,1,No,Married,3,PhD,Employed,98170,City D,State Z
+350,42,Other,Low,No,7,Yes,Divorced,0,High School,Employed,22062,City C,State Y
+351,67,Male,High,Yes,3,Yes,Divorced,4,Master's,Employed,25941,City C,State X
+352,40,Male,Low,Yes,0,Yes,Divorced,3,PhD,Employed,20524,City B,State Y
+353,48,Male,High,No,4,Yes,Divorced,3,Bachelor's,Self-Employed,55713,City C,State Z
+354,47,Female,Medium,Yes,0,Yes,Married,4,Bachelor's,Employed,50401,City A,State X
+355,59,Female,High,Yes,4,No,Single,1,PhD,Retired,75626,City D,State Z
+356,52,Male,Low,No,9,No,Single,1,High School,Retired,35273,City B,State Y
+357,24,Other,Medium,Yes,2,No,Single,2,High School,Retired,21571,City C,State Z
+358,77,Female,High,Yes,3,No,Divorced,2,Bachelor's,Self-Employed,79988,City A,State X
+359,33,Male,Low,Yes,2,No,Single,2,High School,Unemployed,40272,City A,State Z
+360,43,Male,High,Yes,4,No,Divorced,1,PhD,Retired,62611,City C,State Z
+361,65,Male,High,Yes,9,Yes,Single,3,Master's,Self-Employed,94875,City B,State Z
+362,74,Female,Low,No,5,No,Married,0,Bachelor's,Retired,95302,City A,State Z
+363,69,Female,High,Yes,3,No,Divorced,4,Bachelor's,Retired,67288,City D,State Z
+364,77,Male,Low,Yes,6,No,Single,3,PhD,Unemployed,56622,City B,State Z
+365,66,Male,Low,Yes,4,No,Single,4,High School,Unemployed,97851,City D,State Y
+366,19,Other,High,Yes,8,Yes,Married,4,Bachelor's,Unemployed,68388,City A,State Y
+367,18,Male,Medium,No,8,Yes,Married,4,PhD,Employed,28632,City D,State Z
+368,65,Other,Low,Yes,9,Yes,Divorced,2,High School,Unemployed,91717,City A,State X
+369,79,Other,High,No,0,No,Single,2,Bachelor's,Unemployed,24213,City A,State Y
+370,29,Male,Medium,Yes,5,No,Married,1,Master's,Unemployed,33765,City D,State Y
+371,22,Male,High,Yes,6,Yes,Married,0,High School,Employed,91153,City C,State Z
+372,54,Male,High,No,4,Yes,Married,1,High School,Unemployed,80347,City A,State X
+373,49,Female,Medium,No,3,No,Single,0,High School,Self-Employed,84317,City A,State X
+374,76,Male,Medium,Yes,9,Yes,Divorced,3,High School,Unemployed,32992,City B,State Y
+375,72,Male,Medium,No,5,No,Divorced,3,Master's,Unemployed,31105,City D,State Z
+376,26,Other,Low,Yes,0,Yes,Single,0,Master's,Unemployed,79279,City A,State X
+377,58,Male,High,Yes,9,Yes,Married,3,Master's,Retired,58797,City A,State X
+378,52,Male,Low,No,9,No,Divorced,4,Master's,Employed,60578,City D,State Z
+379,36,Female,Low,No,7,Yes,Divorced,0,PhD,Self-Employed,61331,City C,State Z
+380,65,Male,Low,Yes,9,Yes,Divorced,4,PhD,Unemployed,93919,City C,State X
+381,33,Male,High,Yes,5,No,Divorced,3,Master's,Employed,71430,City C,State X
+382,20,Female,Medium,Yes,0,No,Single,4,Master's,Employed,99807,City C,State Y
+383,37,Male,Medium,No,5,No,Divorced,0,PhD,Self-Employed,56843,City C,State X
+384,41,Female,Medium,No,8,No,Single,4,Master's,Employed,51987,City A,State Y
+385,71,Male,High,No,6,No,Divorced,4,PhD,Unemployed,66142,City D,State Z
+386,73,Male,Medium,No,9,No,Married,1,PhD,Unemployed,14474,City C,State X
+387,50,Female,High,Yes,2,Yes,Married,1,Bachelor's,Unemployed,35276,City A,State Z
+388,41,Other,High,No,5,Yes,Divorced,3,Bachelor's,Retired,55690,City C,State Z
+389,69,Female,Medium,Yes,4,Yes,Divorced,3,PhD,Employed,89411,City D,State X
+390,28,Female,Medium,No,4,Yes,Single,1,Bachelor's,Employed,78988,City B,State Z
+391,66,Female,High,Yes,4,No,Single,4,High School,Retired,55521,City A,State Z
+392,25,Male,Medium,No,7,No,Single,4,Master's,Self-Employed,48512,City A,State Z
+393,53,Male,High,Yes,1,Yes,Single,0,PhD,Employed,54748,City D,State X
+394,55,Male,Low,No,9,No,Single,0,Bachelor's,Self-Employed,65735,City B,State Y
+395,57,Female,High,Yes,4,Yes,Divorced,1,Bachelor's,Unemployed,69951,City A,State Z
+396,37,Female,Low,No,5,Yes,Divorced,2,PhD,Self-Employed,93356,City C,State Y
+397,79,Male,High,No,7,Yes,Single,1,Bachelor's,Unemployed,14028,City D,State Z
+398,52,Other,Medium,No,7,Yes,Single,4,PhD,Employed,22348,City C,State X
+399,65,Male,Medium,Yes,8,Yes,Married,3,Bachelor's,Retired,94764,City B,State Z
+400,79,Other,High,Yes,1,No,Married,2,Master's,Self-Employed,32314,City A,State Y
+401,42,Female,High,No,9,No,Single,0,High School,Employed,55205,City A,State Y
+402,52,Other,Medium,Yes,5,Yes,Divorced,4,Master's,Employed,64688,City D,State X
+403,42,Female,High,No,1,Yes,Single,4,Bachelor's,Self-Employed,70990,City C,State Z
+404,46,Female,Low,Yes,8,Yes,Married,0,PhD,Unemployed,82073,City C,State Y
+405,35,Female,High,No,0,No,Married,4,Bachelor's,Employed,99751,City D,State Y
+406,63,Other,High,Yes,2,No,Married,1,PhD,Unemployed,27606,City D,State Z
+407,35,Male,Medium,Yes,1,No,Single,1,Bachelor's,Self-Employed,43771,City D,State Y
+408,19,Other,Medium,No,8,Yes,Single,0,Master's,Unemployed,85947,City A,State X
+409,71,Male,Low,Yes,9,Yes,Divorced,4,Bachelor's,Self-Employed,34605,City B,State Y
+410,52,Male,Medium,Yes,3,No,Divorced,1,Bachelor's,Unemployed,67569,City C,State Z
+411,33,Other,Medium,Yes,3,Yes,Single,4,PhD,Employed,21858,City A,State X
+412,78,Female,Medium,No,6,Yes,Married,4,Bachelor's,Retired,75255,City C,State Z
+413,58,Female,Medium,Yes,5,Yes,Single,3,High School,Employed,61722,City B,State Z
+414,53,Female,High,Yes,2,No,Divorced,0,Master's,Self-Employed,28443,City D,State X
+415,50,Female,High,No,7,Yes,Single,0,Master's,Self-Employed,36707,City B,State Y
+416,21,Male,High,Yes,4,Yes,Married,1,Master's,Self-Employed,99413,City D,State Y
+417,50,Female,Medium,Yes,4,No,Single,1,Bachelor's,Employed,49310,City C,State Y
+418,31,Other,Medium,Yes,4,Yes,Married,2,Bachelor's,Retired,91248,City C,State X
+419,38,Female,High,No,8,Yes,Single,4,Bachelor's,Self-Employed,11126,City C,State Z
+420,65,Male,Medium,Yes,5,No,Single,3,Master's,Employed,46317,City A,State Z
+421,37,Other,Medium,Yes,0,Yes,Married,3,High School,Retired,34566,City B,State Y
+422,73,Female,Low,Yes,7,No,Married,4,PhD,Employed,70989,City B,State Z
+423,25,Other,Medium,Yes,5,No,Single,4,Master's,Employed,16461,City A,State Y
+424,24,Male,High,No,5,No,Divorced,3,High School,Unemployed,97197,City C,State Z
+425,20,Male,High,No,9,Yes,Married,1,Bachelor's,Self-Employed,76611,City D,State Z
+426,34,Female,Medium,Yes,5,Yes,Single,4,Master's,Retired,88176,City C,State Y
+427,50,Male,High,No,0,Yes,Married,2,PhD,Self-Employed,31681,City A,State Y
+428,65,Male,Medium,Yes,8,Yes,Divorced,4,PhD,Retired,41370,City B,State Z
+429,29,Male,High,Yes,0,No,Married,1,High School,Retired,45779,City D,State X
+430,76,Male,Low,No,6,No,Single,0,Bachelor's,Unemployed,98880,City B,State Y
+431,68,Other,Medium,Yes,8,No,Single,3,Bachelor's,Self-Employed,67465,City B,State Z
+432,39,Male,Medium,Yes,1,Yes,Married,2,High School,Employed,11039,City D,State Y
+433,72,Other,High,Yes,5,No,Married,4,Bachelor's,Retired,93821,City B,State Y
+434,39,Male,Medium,Yes,5,No,Divorced,0,PhD,Employed,14313,City D,State Z
+435,63,Other,Medium,Yes,9,No,Single,1,PhD,Self-Employed,25630,City A,State Y
+436,47,Other,Medium,Yes,8,Yes,Divorced,3,High School,Retired,46453,City D,State Y
+437,55,Female,High,No,7,No,Single,3,High School,Retired,11750,City B,State Z
+438,55,Male,Medium,Yes,6,Yes,Single,2,Bachelor's,Retired,64908,City B,State Y
+439,62,Other,Medium,No,5,No,Divorced,3,Bachelor's,Unemployed,46984,City A,State Z
+440,68,Other,High,Yes,8,No,Divorced,4,High School,Employed,84820,City D,State X
+441,71,Other,Medium,Yes,8,Yes,Divorced,1,Bachelor's,Self-Employed,36408,City C,State Y
+442,25,Female,Medium,No,4,No,Married,3,High School,Retired,41736,City D,State X
+443,44,Male,Medium,No,2,No,Divorced,2,High School,Unemployed,55210,City C,State Z
+444,44,Female,High,Yes,9,Yes,Single,4,High School,Self-Employed,69319,City D,State Y
+445,51,Other,Low,No,8,Yes,Married,1,Master's,Employed,52224,City D,State X
+446,38,Other,High,Yes,2,No,Divorced,3,High School,Employed,26767,City D,State X
+447,47,Male,Medium,No,9,No,Married,2,Bachelor's,Unemployed,56693,City C,State Z
+448,50,Male,Medium,No,1,Yes,Divorced,4,High School,Employed,56871,City A,State X
+449,45,Female,High,No,4,Yes,Single,1,High School,Employed,67068,City C,State Z
+450,64,Male,Low,No,9,Yes,Divorced,1,Bachelor's,Retired,29978,City C,State Z
+451,50,Other,Low,No,0,Yes,Single,2,Master's,Employed,11088,City B,State Z
+452,22,Male,High,No,5,Yes,Divorced,3,Bachelor's,Employed,98814,City B,State Z
+453,77,Other,Medium,Yes,5,Yes,Divorced,0,PhD,Self-Employed,27580,City A,State Y
+454,78,Other,Medium,No,0,No,Married,1,Master's,Self-Employed,84575,City C,State X
+455,65,Male,Low,Yes,6,Yes,Married,4,Bachelor's,Self-Employed,59083,City C,State Z
+456,36,Female,High,No,2,No,Divorced,3,Master's,Retired,96353,City A,State Z
+457,21,Female,High,Yes,2,No,Single,1,High School,Self-Employed,85138,City C,State X
+458,52,Female,Medium,Yes,1,Yes,Married,0,PhD,Employed,80809,City C,State Z
+459,66,Female,Medium,Yes,6,Yes,Single,4,Bachelor's,Retired,26883,City C,State X
+460,34,Male,High,Yes,6,Yes,Single,3,Master's,Self-Employed,75883,City A,State Z
+461,61,Female,Low,No,9,Yes,Single,1,Bachelor's,Unemployed,66981,City D,State Y
+462,45,Other,High,No,6,No,Married,4,High School,Retired,26589,City A,State Y
+463,47,Other,High,Yes,5,Yes,Divorced,0,PhD,Self-Employed,93425,City D,State Y
+464,46,Male,High,Yes,7,No,Divorced,0,PhD,Retired,97970,City C,State Y
+465,63,Female,High,No,4,Yes,Married,2,PhD,Self-Employed,68602,City D,State Y
+466,70,Other,Medium,No,1,Yes,Divorced,3,PhD,Employed,33539,City B,State X
+467,23,Other,Medium,Yes,7,No,Married,0,Bachelor's,Self-Employed,36909,City B,State Z
+468,52,Male,Low,No,7,No,Single,3,Master's,Employed,86393,City D,State Y
+469,77,Male,High,No,6,No,Divorced,1,High School,Employed,64318,City B,State Z
+470,58,Other,High,Yes,9,No,Single,2,PhD,Employed,92997,City C,State X
+471,54,Female,Medium,No,7,No,Single,4,High School,Employed,65836,City D,State X
+472,41,Female,High,Yes,7,Yes,Single,3,Bachelor's,Unemployed,40323,City A,State X
+473,46,Other,High,No,1,Yes,Divorced,2,High School,Self-Employed,64193,City C,State X
+474,66,Other,Low,Yes,4,No,Married,2,PhD,Retired,10074,City B,State X
+475,63,Male,Medium,No,0,Yes,Single,3,Master's,Unemployed,62913,City A,State Y
+476,70,Other,High,No,4,Yes,Divorced,1,Bachelor's,Employed,68888,City D,State X
+477,48,Female,Medium,Yes,0,Yes,Single,4,High School,Unemployed,24231,City A,State X
+478,52,Female,Medium,No,4,No,Married,1,Master's,Retired,28667,City A,State X
+479,77,Female,High,No,2,No,Married,4,Master's,Retired,38008,City C,State Z
+480,50,Other,Low,No,0,No,Divorced,0,Bachelor's,Self-Employed,25683,City A,State Y
+481,69,Female,High,No,0,No,Married,3,Master's,Employed,30704,City D,State X
+482,78,Male,Medium,Yes,5,Yes,Single,0,Bachelor's,Unemployed,30769,City B,State Y
+483,38,Male,Medium,No,5,No,Single,0,High School,Retired,38963,City C,State X
+484,49,Male,Low,No,9,No,Single,3,High School,Unemployed,30129,City B,State X
+485,40,Other,Low,Yes,1,No,Married,1,Bachelor's,Retired,38202,City B,State Z
+486,50,Female,High,Yes,6,No,Married,3,High School,Self-Employed,57162,City D,State X
+487,20,Male,Medium,Yes,2,No,Married,1,High School,Unemployed,45237,City C,State X
+488,35,Male,Medium,No,6,Yes,Single,1,Master's,Retired,37542,City C,State Y
+489,42,Male,Medium,Yes,7,No,Married,3,Master's,Retired,81053,City D,State X
+490,59,Male,Low,No,6,Yes,Married,4,High School,Employed,37907,City B,State Y
+491,48,Other,High,Yes,8,Yes,Single,0,Bachelor's,Self-Employed,56421,City C,State Y
+492,71,Other,Low,No,0,Yes,Single,1,Bachelor's,Retired,15018,City C,State X
+493,75,Other,High,No,3,Yes,Married,0,High School,Self-Employed,73879,City A,State X
+494,20,Other,Medium,Yes,8,No,Divorced,2,High School,Retired,25773,City D,State Y
+495,57,Male,High,Yes,4,No,Divorced,1,PhD,Unemployed,79455,City A,State Y
+496,63,Female,Low,No,5,Yes,Divorced,0,High School,Retired,68744,City B,State X
+497,41,Other,High,No,0,No,Single,3,PhD,Employed,15998,City D,State Y
+498,67,Other,Medium,No,2,Yes,Divorced,3,Master's,Unemployed,91761,City C,State X
+499,49,Other,High,No,3,No,Divorced,4,Master's,Employed,59319,City A,State Y
+500,64,Female,Low,Yes,2,No,Married,2,PhD,Employed,25285,City A,State X
+3,46,Female,Low,No,5,No,Married,3,Bachelor's,Self-Employed,11816,City B,State X
+4,32,Female,Low,No,0,No,Divorced,2,Master's,Employed,78604,Unknown City,State Y
+501,70,Male,Low,No,4,Yes,Single,1,PhD,Employed,93835,City D,State X
+502,39,Female,High,No,9,Yes,Single,3,High School,Retired,84096,City B,State X
+503,64,Other,Low,Yes,0,Yes,Single,3,PhD,Unemployed,20285,City A,State Y
+504,20,Other,Medium,Yes,7,Yes,Married,1,High School,Employed,63400,City C,State Y
+505,59,Female,High,Yes,4,Yes,Divorced,4,Bachelor's,Retired,84561,City A,State X
+506,37,Male,High,No,8,Yes,Divorced,1,Bachelor's,Employed,19876,City A,State Y
+507,40,Other,Low,Yes,6,Yes,Single,3,High School,Employed,40213,City D,State X
+508,51,Male,High,Yes,4,No,Single,2,High School,Self-Employed,47697,City A,State Z
+509,27,Male,Low,No,3,Yes,Divorced,1,Bachelor's,Self-Employed,61974,City D,State Y
+510,44,Female,Low,Yes,9,No,Married,3,Bachelor's,Self-Employed,88385,City D,State Z
+511,55,Female,Medium,Yes,7,No,Divorced,0,High School,Self-Employed,82180,City C,State X
+512,34,Female,Low,No,4,No,Married,1,Bachelor's,Self-Employed,24282,City D,State Z
+513,49,Other,Low,No,3,Yes,Single,3,High School,Employed,18230,City C,State X
+514,58,Other,Medium,No,8,Yes,Divorced,3,Master's,Self-Employed,43720,City B,State Y
+515,54,Male,High,No,9,No,Divorced,2,High School,Employed,66661,City A,State Z
+516,45,Other,Medium,Yes,4,Yes,Married,2,Master's,Retired,43721,City A,State X
+517,47,Male,Low,Yes,6,Yes,Single,3,Master's,Retired,16498,City D,State Y
+518,38,Other,Medium,No,9,No,Single,2,High School,Retired,96583,City C,State Z
+519,68,Other,Medium,No,8,Yes,Single,1,Bachelor's,Employed,59862,City A,State Z
+520,34,Other,Low,No,1,No,Married,0,PhD,Unemployed,18085,City A,State Y
+521,53,Female,High,No,2,No,Married,2,PhD,Self-Employed,35069,City A,State Y
+522,29,Male,High,No,7,Yes,Divorced,2,High School,Self-Employed,21858,City C,State Z
+523,45,Other,Medium,No,9,Yes,Divorced,2,Master's,Employed,57628,City B,State Y
+524,41,Other,High,No,1,Yes,Single,2,Bachelor's,Self-Employed,16211,City C,State Y
+525,60,Male,Medium,No,3,Yes,Single,0,Bachelor's,Unemployed,74760,City D,State Z
+526,63,Other,Low,Yes,6,Yes,Divorced,2,Bachelor's,Unemployed,79787,City A,State X
+527,74,Other,Low,Yes,7,No,Divorced,2,High School,Employed,21651,City C,State X
+528,78,Female,Low,Yes,5,Yes,Married,0,High School,Self-Employed,86374,City A,State Z
+529,42,Male,High,No,7,Yes,Divorced,1,Bachelor's,Retired,50054,City B,State Z
+530,71,Male,Low,Yes,8,No,Married,3,Bachelor's,Employed,11964,City C,State X
+531,22,Other,Low,No,3,No,Divorced,3,Bachelor's,Employed,90263,City C,State X
+532,78,Female,High,Yes,0,No,Married,0,Bachelor's,Self-Employed,56985,City C,State Y
+533,29,Female,High,No,0,No,Single,2,Bachelor's,Retired,51870,City A,State X
+534,57,Other,Low,No,8,No,Married,2,Master's,Employed,69787,City D,State Y
+535,76,Other,Low,No,10,Yes,Single,4,PhD,Unemployed,91686,City A,State X
+536,47,Other,Low,No,10,Yes,Divorced,0,Bachelor's,Self-Employed,75708,City B,State Z
+537,26,Female,Low,Yes,9,Yes,Single,3,Master's,Retired,50869,City D,State Z
+538,56,Other,High,Yes,9,No,Divorced,1,PhD,Retired,56620,City D,State Z
+539,80,Female,Low,Yes,0,Yes,Married,3,Master's,Employed,89273,City A,State X
+540,74,Female,Medium,Yes,6,No,Single,3,High School,Retired,23921,City B,State Z
+541,44,Male,Low,No,8,Yes,Divorced,0,High School,Retired,68805,City B,State Z
+542,57,Female,Low,No,4,Yes,Divorced,2,High School,Self-Employed,97102,City A,State X
+543,42,Female,Low,No,10,No,Divorced,0,High School,Unemployed,10042,City D,State Y
+544,44,Male,Medium,Yes,6,No,Divorced,0,High School,Unemployed,55728,City A,State Z
+545,69,Male,Low,No,6,Yes,Married,0,High School,Employed,38905,City D,State X
+546,43,Other,Medium,Yes,7,Yes,Divorced,1,Master's,Self-Employed,51304,City D,State Z
+547,30,Male,Low,Yes,9,No,Single,4,High School,Unemployed,38020,City C,State Y
+548,54,Male,Low,No,2,No,Single,1,Master's,Unemployed,46791,City C,State X
+549,64,Male,Low,No,9,No,Divorced,0,High School,Retired,40481,City D,State X
+550,40,Male,High,Yes,8,No,Divorced,3,High School,Unemployed,79268,City B,State Z
+551,35,Male,High,Yes,9,No,Married,1,Master's,Retired,60707,City D,State Y
+552,31,Male,Medium,Yes,3,Yes,Married,4,Master's,Employed,24749,City D,State X
+553,60,Female,High,Yes,3,No,Divorced,3,Bachelor's,Retired,10662,City C,State X
+554,47,Male,High,Yes,7,No,Divorced,3,High School,Unemployed,32511,City C,State Y
+555,80,Male,Medium,No,8,Yes,Single,3,Master's,Retired,22007,City D,State Z
+556,28,Other,Medium,No,10,No,Divorced,4,Master's,Unemployed,15075,City B,State Y
+557,46,Other,Medium,Yes,4,No,Married,4,High School,Self-Employed,75063,City B,State Z
+558,29,Other,Low,No,0,Yes,Divorced,3,High School,Self-Employed,96255,City B,State Y
+559,26,Other,Low,No,1,No,Single,4,High School,Self-Employed,77893,City A,State X
+560,48,Female,Medium,Yes,1,Yes,Divorced,4,High School,Retired,21534,City D,State Y
+561,55,Male,Low,Yes,4,Yes,Single,0,PhD,Self-Employed,63068,City B,State Z
+562,80,Male,Medium,No,0,No,Divorced,2,Bachelor's,Self-Employed,79815,City D,State X
+563,69,Male,Low,No,8,No,Married,2,Master's,Employed,73125,City A,State Y
+564,56,Male,High,Yes,10,No,Single,1,PhD,Employed,18650,City B,State Y
+565,58,Other,Low,Yes,0,Yes,Divorced,0,Master's,Employed,33695,City B,State X
+566,67,Female,Low,No,6,No,Divorced,2,PhD,Employed,72541,City B,State X
+567,73,Female,High,No,8,Yes,Divorced,2,Bachelor's,Retired,27464,City B,State Z
+568,73,Female,Medium,No,1,No,Divorced,4,PhD,Employed,27533,City B,State Y
+569,25,Male,Low,No,2,Yes,Married,4,Master's,Self-Employed,73417,City A,State X
+570,36,Female,Medium,Yes,5,No,Married,2,Bachelor's,Retired,87796,City B,State Y
+571,51,Other,Medium,No,3,No,Divorced,1,PhD,Unemployed,96869,City C,State Z
+572,65,Other,High,Yes,0,Yes,Divorced,1,PhD,Retired,44018,City D,State Y
+573,22,Male,High,Yes,9,Yes,Single,4,Bachelor's,Employed,57755,City B,State Z
+574,46,Female,Low,No,7,No,Married,3,PhD,Employed,93567,City D,State Z
+575,75,Female,Low,No,8,No,Divorced,1,Bachelor's,Self-Employed,16921,City C,State Y
+576,50,Other,Medium,No,5,No,Divorced,4,Bachelor's,Retired,58795,City B,State Z
+577,26,Female,Medium,No,10,Yes,Married,3,High School,Self-Employed,69670,City C,State Z
+578,20,Female,Medium,Yes,1,No,Married,3,Bachelor's,Unemployed,34092,City C,State Y
+579,61,Female,Medium,No,2,Yes,Married,0,Bachelor's,Retired,43468,City A,State Z
+580,26,Male,High,No,10,Yes,Single,1,High School,Self-Employed,35579,City C,State Z
+581,21,Male,High,Yes,2,Yes,Single,3,Bachelor's,Retired,90459,City D,State Y
+582,38,Male,Medium,Yes,9,Yes,Single,4,Master's,Self-Employed,15061,City D,State Y
+583,74,Female,Low,Yes,2,Yes,Married,2,PhD,Unemployed,83975,City A,State Y
+584,22,Other,High,Yes,0,Yes,Single,4,PhD,Unemployed,95625,City D,State Y
+585,75,Male,Low,No,10,Yes,Single,2,PhD,Unemployed,66457,City A,State Z
+586,40,Male,Low,Yes,1,Yes,Single,0,Master's,Self-Employed,90541,City B,State X
+587,18,Female,High,Yes,0,Yes,Single,3,High School,Unemployed,99225,City D,State X
+588,22,Male,Medium,No,6,Yes,Single,4,Master's,Unemployed,36993,City D,State Z
+589,45,Female,Medium,No,0,No,Married,4,PhD,Unemployed,82202,City B,State Z
+590,63,Other,High,No,8,Yes,Divorced,2,Bachelor's,Unemployed,68025,City A,State Y
+591,42,Other,Medium,No,1,No,Married,0,PhD,Self-Employed,36989,City D,State X
+592,45,Female,Medium,No,8,No,Single,0,PhD,Unemployed,68522,City A,State Y
+593,74,Male,Low,Yes,4,Yes,Divorced,0,PhD,Unemployed,26241,City D,State X
+594,25,Female,Medium,No,2,Yes,Married,4,Bachelor's,Retired,52448,City C,State Z
+595,77,Female,Medium,No,6,Yes,Divorced,2,PhD,Employed,71306,City D,State Y
+596,20,Female,High,No,3,Yes,Married,0,PhD,Self-Employed,11298,City D,State Y
+597,76,Male,Medium,No,9,No,Divorced,4,High School,Retired,25584,City A,State X
+598,46,Male,High,Yes,2,No,Married,2,Bachelor's,Unemployed,81906,City D,State Y
+599,20,Other,Medium,No,9,Yes,Single,1,Bachelor's,Employed,35217,City D,State Z
+600,71,Other,Medium,No,3,Yes,Married,0,PhD,Retired,31850,City A,State Y
+601,24,Female,High,Yes,3,Yes,Married,4,Bachelor's,Retired,84251,City B,State Y
+602,79,Female,Low,Yes,9,No,Married,1,Master's,Retired,87971,City A,State Z
+603,27,Female,High,Yes,0,No,Divorced,1,Bachelor's,Employed,22615,City A,State Y
+604,48,Female,Medium,Yes,9,Yes,Single,2,Bachelor's,Employed,40929,City A,State X
+605,44,Female,Medium,No,7,Yes,Married,0,PhD,Retired,35539,City D,State Y
+606,43,Female,Low,No,6,Yes,Married,4,High School,Employed,19817,City A,State X
+607,66,Other,High,Yes,10,Yes,Married,1,Bachelor's,Retired,88993,City C,State Y
+608,57,Other,High,Yes,8,Yes,Divorced,4,High School,Employed,76276,City B,State Z
+609,34,Male,Medium,No,8,No,Married,2,PhD,Unemployed,51865,City B,State Y
+610,56,Other,Medium,No,5,Yes,Single,2,Bachelor's,Self-Employed,30744,City D,State X
+611,56,Other,Medium,Yes,9,Yes,Married,1,Bachelor's,Employed,84121,City A,State Z
+612,30,Other,Medium,Yes,6,No,Single,2,PhD,Retired,10961,City B,State Y
+613,41,Other,Low,No,10,Yes,Married,0,High School,Unemployed,29070,City C,State X
+614,58,Female,Medium,Yes,5,No,Married,2,Bachelor's,Retired,35849,City C,State Z
+615,55,Male,Medium,No,9,Yes,Divorced,2,Master's,Retired,68614,City C,State Z
+616,60,Female,Medium,Yes,3,Yes,Married,3,High School,Unemployed,38074,City B,State Y
+617,76,Male,Medium,Yes,1,No,Married,2,PhD,Unemployed,93446,City A,State Y
+618,19,Other,High,Yes,10,No,Married,3,Bachelor's,Retired,63250,City B,State Y
+619,68,Other,Low,Yes,6,Yes,Single,3,Bachelor's,Self-Employed,78756,City B,State Z
+620,56,Female,High,No,0,Yes,Married,0,PhD,Unemployed,71424,City A,State Z
+621,37,Male,Low,Yes,6,Yes,Divorced,2,PhD,Self-Employed,39420,City D,State Z
+622,70,Female,Low,Yes,6,No,Divorced,1,High School,Self-Employed,95044,City B,State Z
+623,74,Other,Low,Yes,9,Yes,Married,2,High School,Retired,38366,City C,State Z
+624,66,Male,High,No,4,No,Married,0,PhD,Unemployed,54556,City A,State X
+625,23,Female,High,No,0,No,Married,1,Master's,Retired,41088,City C,State Z
+626,66,Female,High,Yes,7,Yes,Married,4,Bachelor's,Employed,13824,City A,State X
+627,55,Male,High,No,8,No,Divorced,4,High School,Self-Employed,83937,City A,State X
+628,20,Female,High,No,0,Yes,Divorced,1,Master's,Unemployed,53864,City C,State Z
+629,22,Female,Low,No,6,Yes,Single,2,High School,Retired,97628,City C,State X
+630,64,Other,Low,No,2,No,Single,2,PhD,Employed,95667,City C,State X
+631,66,Other,Low,No,0,Yes,Divorced,1,Bachelor's,Retired,53528,City C,State X
+632,44,Female,High,No,10,Yes,Divorced,0,Master's,Unemployed,90607,City D,State Z
+633,45,Other,Low,Yes,7,No,Divorced,1,Master's,Self-Employed,99849,City C,State Z
+634,21,Other,Low,No,5,Yes,Divorced,0,PhD,Unemployed,72532,City B,State Z
+635,19,Male,High,No,5,Yes,Single,0,PhD,Retired,98631,City C,State Y
+636,49,Other,Medium,Yes,2,Yes,Married,4,PhD,Self-Employed,17537,City D,State X
+637,25,Male,High,No,7,Yes,Single,3,High School,Unemployed,47006,City A,State Z
+638,63,Male,Medium,Yes,4,Yes,Married,1,Master's,Self-Employed,52281,City C,State X
+639,64,Female,Low,No,6,No,Single,0,Bachelor's,Retired,12250,City A,State Y
+640,19,Male,High,Yes,2,No,Married,2,High School,Employed,54457,City C,State Z
+641,53,Other,Medium,No,6,Yes,Married,0,High School,Retired,77110,City C,State Z
+642,73,Female,Low,Yes,0,No,Married,1,PhD,Employed,59051,City C,State Z
+643,74,Male,High,Yes,7,Yes,Married,0,PhD,Employed,59757,City B,State Y
+644,20,Female,Low,No,5,Yes,Married,2,High School,Employed,62951,City B,State X
+645,67,Male,Low,No,4,No,Married,1,Bachelor's,Self-Employed,70391,City D,State Z
+646,25,Other,Medium,No,6,No,Divorced,1,PhD,Retired,48653,City A,State Y
+647,46,Female,Medium,No,2,No,Divorced,3,Bachelor's,Retired,48967,City B,State X
+648,55,Other,Low,Yes,5,Yes,Married,3,High School,Retired,19605,City A,State X
+649,31,Other,High,Yes,0,No,Married,4,PhD,Retired,97248,City B,State Z
+650,29,Other,Medium,Yes,4,Yes,Married,1,Master's,Self-Employed,56318,City C,State Y
+651,48,Female,Medium,No,1,Yes,Divorced,2,PhD,Self-Employed,77009,City A,State X
+652,48,Female,High,Yes,0,Yes,Divorced,4,PhD,Unemployed,83985,City D,State Z
+653,26,Female,Low,Yes,1,Yes,Single,0,High School,Employed,50525,City B,State Y
+654,62,Male,High,Yes,5,Yes,Married,3,High School,Self-Employed,69739,City B,State Y
+655,45,Female,High,Yes,7,Yes,Married,4,Bachelor's,Employed,25273,City B,State Z
+656,73,Other,Medium,Yes,7,Yes,Divorced,3,High School,Employed,92889,City C,State Z
+657,38,Female,Medium,Yes,4,No,Married,1,High School,Self-Employed,44735,City B,State Y
+658,55,Female,High,No,0,No,Married,1,High School,Employed,57304,City D,State X
+659,42,Other,High,No,8,Yes,Divorced,4,High School,Unemployed,69744,City D,State X
+660,55,Male,Medium,Yes,5,Yes,Divorced,4,Bachelor's,Employed,15871,City B,State Z
+661,41,Female,High,No,10,No,Married,1,High School,Retired,51585,City D,State Y
+662,19,Other,Medium,No,9,Yes,Single,0,PhD,Retired,33638,City B,State Y
+663,61,Other,Medium,Yes,7,Yes,Married,1,High School,Unemployed,40382,City A,State Z
+664,21,Other,Low,Yes,6,No,Divorced,3,Bachelor's,Self-Employed,30078,City C,State X
+665,67,Female,High,No,6,Yes,Divorced,4,Master's,Self-Employed,60846,City C,State Y
+666,75,Male,High,No,5,No,Single,2,PhD,Employed,68484,City C,State Z
+667,50,Other,Medium,No,5,No,Single,0,Bachelor's,Employed,22772,City C,State Y
+668,41,Female,High,No,8,Yes,Divorced,0,PhD,Retired,21418,City A,State X
+669,39,Female,Medium,No,5,Yes,Married,0,Bachelor's,Self-Employed,59364,City C,State Z
+670,21,Male,Medium,No,6,Yes,Married,3,High School,Self-Employed,22028,City C,State X
+671,76,Male,Low,No,6,No,Divorced,3,Master's,Unemployed,11408,City C,State Z
+672,35,Other,Low,No,3,Yes,Single,0,Bachelor's,Self-Employed,35343,City D,State Y
+673,60,Male,Low,No,4,No,Married,3,High School,Retired,12902,City D,State Z
+674,35,Male,Medium,No,8,Yes,Married,1,High School,Self-Employed,62221,City D,State Z
+675,66,Female,Low,No,2,No,Divorced,2,PhD,Self-Employed,47856,City D,State X
+676,29,Male,High,No,10,No,Single,3,PhD,Self-Employed,19081,City D,State Z
+677,34,Male,High,Yes,4,Yes,Single,0,Master's,Self-Employed,65589,City B,State Z
+678,42,Female,Low,Yes,0,No,Single,3,High School,Retired,53322,City B,State Y
+679,67,Male,Medium,Yes,5,Yes,Single,3,Master's,Unemployed,45109,City C,State X
+680,21,Male,High,No,1,No,Divorced,3,Master's,Retired,23757,City C,State Y
+681,50,Other,Low,Yes,7,No,Divorced,4,PhD,Self-Employed,10822,City A,State X
+682,77,Other,Low,Yes,6,No,Married,1,Bachelor's,Unemployed,83629,City C,State Z
+683,30,Other,High,No,8,No,Single,2,PhD,Employed,80754,City D,State X
+684,71,Female,Medium,No,8,No,Divorced,4,Bachelor's,Self-Employed,98600,City A,State X
+685,69,Female,Low,No,0,No,Single,4,Bachelor's,Retired,52750,City B,State X
+686,41,Male,Low,Yes,8,Yes,Single,1,Bachelor's,Unemployed,37724,City C,State Y
+687,22,Other,High,Yes,1,No,Single,2,Master's,Self-Employed,66877,City C,State Y
+688,78,Male,High,No,6,No,Single,0,High School,Unemployed,31606,City C,State X
+689,46,Female,High,No,9,No,Single,0,PhD,Retired,21749,City C,State Z
+690,61,Male,Medium,No,7,Yes,Divorced,1,Bachelor's,Retired,37086,City A,State X
+691,20,Other,Medium,Yes,0,Yes,Single,3,Master's,Retired,18573,City D,State Y
+692,54,Other,Medium,No,10,Yes,Divorced,1,High School,Unemployed,15148,City C,State Y
+693,67,Male,Low,No,7,No,Single,1,PhD,Employed,42242,City B,State Z
+694,67,Other,Low,No,2,Yes,Single,1,Master's,Unemployed,76226,City D,State X
+695,50,Female,Medium,No,3,No,Single,1,PhD,Retired,15624,City D,State Y
+696,63,Other,Medium,No,8,No,Divorced,1,PhD,Retired,36829,City B,State Z
+697,39,Female,Low,Yes,9,Yes,Single,1,PhD,Retired,12165,City B,State Y
+698,48,Female,High,No,1,No,Married,0,Master's,Retired,36435,City D,State Z
+699,60,Male,High,Yes,8,Yes,Married,4,PhD,Employed,93254,City B,State Z
+700,25,Other,Medium,Yes,5,Yes,Single,2,High School,Self-Employed,32175,City A,State X
+701,72,Male,Medium,Yes,2,Yes,Married,1,PhD,Unemployed,54933,City C,State Z
+702,47,Other,High,Yes,7,No,Divorced,3,High School,Employed,42252,City C,State Y
+703,18,Other,Medium,Yes,10,No,Divorced,3,Master's,Unemployed,78350,City B,State Y
+704,28,Female,High,Yes,6,Yes,Single,4,PhD,Employed,33915,City B,State Y
+705,72,Other,Low,Yes,9,Yes,Single,2,Bachelor's,Unemployed,62621,City C,State Z
+706,42,Male,Medium,No,0,Yes,Married,3,High School,Unemployed,97642,City A,State X
+707,51,Female,High,Yes,5,No,Married,2,Master's,Self-Employed,58398,City B,State Y
+708,38,Male,Low,No,7,No,Divorced,0,Bachelor's,Unemployed,25445,City B,State Y
+709,55,Other,Low,Yes,5,No,Married,4,Master's,Self-Employed,30007,City B,State Y
+710,18,Female,Medium,No,8,Yes,Single,1,Master's,Self-Employed,40470,City A,State Z
+711,68,Other,Medium,No,1,Yes,Divorced,1,Bachelor's,Self-Employed,55476,City C,State Z
+712,46,Male,Low,No,10,No,Single,2,Master's,Unemployed,39288,City D,State Y
+713,53,Other,High,Yes,10,No,Single,3,PhD,Self-Employed,53282,City C,State X
+714,39,Male,High,Yes,8,No,Divorced,0,High School,Unemployed,75691,City B,State X
+715,78,Other,Medium,Yes,10,Yes,Divorced,3,High School,Unemployed,54043,City C,State Z
+716,20,Female,Low,Yes,9,Yes,Married,4,Bachelor's,Retired,96064,City C,State Z
+717,68,Other,High,No,1,Yes,Married,2,Master's,Employed,71832,City D,State Y
+718,60,Other,High,No,4,Yes,Divorced,2,High School,Retired,60439,City D,State Y
+719,22,Male,Medium,No,7,No,Married,3,PhD,Self-Employed,47104,City A,State Z
+720,52,Female,High,Yes,10,No,Divorced,0,Master's,Employed,44628,City A,State Z
+721,62,Female,Medium,Yes,9,Yes,Married,1,PhD,Retired,56575,City B,State Y
+722,45,Male,Medium,Yes,6,No,Divorced,3,PhD,Employed,38440,City C,State X
+723,30,Male,Low,Yes,10,Yes,Single,1,High School,Unemployed,51421,City D,State X
+724,28,Male,High,No,0,No,Single,3,PhD,Employed,28275,City A,State X
+725,67,Female,Low,Yes,5,No,Single,1,Master's,Employed,71961,City B,State Y
+726,46,Other,High,Yes,6,Yes,Single,3,Bachelor's,Self-Employed,27694,City D,State Z
+727,53,Female,Medium,Yes,8,No,Single,4,PhD,Unemployed,38764,City C,State Y
+728,63,Other,High,No,7,No,Divorced,0,Master's,Employed,70199,City B,State X
+729,28,Male,Low,No,2,No,Single,2,Bachelor's,Retired,96070,City B,State Z
+730,33,Female,High,No,4,Yes,Single,0,PhD,Employed,15363,City B,State X
+731,25,Female,Medium,Yes,7,Yes,Married,3,Master's,Self-Employed,12042,City C,State X
+732,56,Male,High,No,7,Yes,Single,0,PhD,Retired,84198,City D,State Y
+733,71,Other,High,Yes,1,Yes,Married,4,Master's,Retired,42583,City B,State Z
+734,20,Other,Medium,Yes,6,Yes,Divorced,4,High School,Retired,77511,City A,State Y
+735,20,Female,Low,Yes,6,No,Married,3,High School,Retired,80982,City C,State X
+736,74,Other,High,Yes,6,No,Divorced,2,Bachelor's,Retired,96481,City A,State Z
+737,79,Other,Medium,No,5,No,Married,3,Bachelor's,Unemployed,50198,City B,State X
+738,19,Female,Low,No,0,No,Single,1,High School,Retired,18372,City A,State Z
+739,41,Female,Low,Yes,3,Yes,Divorced,1,PhD,Unemployed,42047,City B,State Z
+740,73,Other,Medium,Yes,3,No,Single,1,Master's,Self-Employed,71333,City A,State X
+741,28,Male,Medium,No,8,No,Married,0,Master's,Retired,41706,City D,State Z
+742,37,Other,Low,Yes,9,Yes,Divorced,4,Bachelor's,Unemployed,28651,City C,State Z
+743,23,Male,High,No,10,No,Single,4,PhD,Employed,26155,City B,State Y
+744,47,Other,High,No,8,No,Single,4,High School,Self-Employed,76296,City D,State Z
+745,78,Male,Medium,Yes,5,No,Divorced,1,Master's,Self-Employed,81467,City D,State Y
+746,49,Female,Medium,No,8,No,Single,4,Bachelor's,Employed,17995,City D,State X
+747,48,Female,High,No,2,No,Divorced,3,Master's,Self-Employed,50314,City C,State Z
+748,39,Male,Medium,No,7,No,Divorced,2,High School,Unemployed,59572,City C,State X
+749,74,Other,High,Yes,9,No,Single,2,PhD,Employed,40946,City A,State X
+750,29,Male,Low,Yes,8,No,Divorced,0,High School,Self-Employed,81210,City C,State Y
+751,60,Other,Low,No,5,No,Single,0,PhD,Unemployed,22424,City D,State Z
+752,19,Female,High,Yes,5,Yes,Divorced,3,Bachelor's,Retired,94745,City B,State Y
+753,21,Male,Low,Yes,5,Yes,Divorced,4,Master's,Unemployed,75982,City A,State Y
+754,30,Other,Low,No,3,No,Married,3,Master's,Employed,60448,City A,State X
+755,67,Male,High,No,2,Yes,Married,4,Master's,Retired,48431,City A,State Z
+756,72,Other,Medium,No,3,Yes,Single,2,High School,Unemployed,55743,City C,State Z
+757,39,Female,High,Yes,6,No,Married,3,Master's,Unemployed,58667,City D,State Y
+758,35,Female,Medium,No,10,No,Single,1,Master's,Unemployed,53954,City A,State Z
+759,46,Female,Medium,Yes,10,Yes,Married,1,Master's,Retired,63243,City B,State Y
+760,54,Other,Medium,No,10,Yes,Married,4,Master's,Unemployed,67834,City C,State Y
+761,51,Other,Low,Yes,7,Yes,Single,3,PhD,Retired,41282,City B,State Y
+762,40,Female,Medium,Yes,5,Yes,Divorced,1,High School,Unemployed,83100,City A,State Y
+763,69,Other,High,Yes,5,Yes,Single,3,PhD,Employed,12082,City D,State Y
+764,59,Other,Low,Yes,1,Yes,Married,4,PhD,Self-Employed,37891,City B,State Y
+765,41,Male,Medium,No,5,No,Married,0,High School,Employed,30774,City B,State Z
+766,71,Female,Medium,Yes,5,No,Single,0,Master's,Retired,72889,City A,State Y
+767,76,Other,High,No,8,No,Married,1,High School,Unemployed,58330,City B,State X
+768,49,Male,High,No,10,No,Married,4,Bachelor's,Retired,19493,City C,State Y
+769,33,Male,Medium,No,7,No,Divorced,1,PhD,Employed,18716,City D,State X
+770,21,Male,Low,No,10,No,Single,3,Bachelor's,Employed,99681,City C,State Z
+771,38,Female,Low,No,10,No,Married,3,Master's,Retired,86124,City C,State Y
+772,38,Female,Medium,No,4,Yes,Single,3,High School,Employed,68471,City B,State X
+773,18,Female,Low,Yes,2,Yes,Divorced,4,PhD,Retired,44913,City B,State X
+774,32,Other,Low,Yes,0,No,Divorced,3,Bachelor's,Unemployed,56798,City A,State X
+775,67,Female,Medium,No,1,Yes,Married,1,High School,Unemployed,10279,City D,State Z
+776,66,Other,Low,No,2,Yes,Married,2,High School,Self-Employed,23144,City D,State X
+777,37,Male,High,No,4,Yes,Married,0,High School,Self-Employed,89445,City A,State Z
+778,50,Male,Low,No,0,No,Single,3,High School,Self-Employed,97485,City C,State X
+779,59,Female,High,Yes,1,No,Divorced,0,Master's,Retired,18344,City A,State Y
+780,41,Other,Medium,Yes,2,No,Divorced,3,Bachelor's,Unemployed,18935,City C,State Y
+781,49,Male,High,No,8,No,Single,4,PhD,Self-Employed,18850,City C,State Y
+782,18,Female,Medium,No,7,No,Married,2,Bachelor's,Self-Employed,10902,City D,State Y
+783,55,Other,Low,Yes,9,No,Married,1,High School,Employed,86955,City B,State X
+784,37,Other,Low,Yes,6,Yes,Single,2,Bachelor's,Retired,99170,City C,State X
+785,21,Female,Medium,Yes,8,Yes,Divorced,0,Master's,Self-Employed,33387,City A,State X
+786,61,Other,High,No,8,Yes,Single,3,High School,Retired,98029,City A,State X
+787,73,Other,Medium,Yes,4,No,Divorced,4,High School,Self-Employed,60453,City C,State X
+788,75,Male,High,Yes,9,No,Divorced,4,Bachelor's,Unemployed,68178,City C,State Z
+789,48,Female,High,No,10,Yes,Divorced,1,Master's,Retired,61564,City D,State X
+790,50,Male,Low,Yes,3,No,Divorced,1,High School,Employed,99890,City D,State Y
+791,47,Other,High,No,10,Yes,Divorced,2,Bachelor's,Retired,72625,City C,State Z
+792,18,Other,Medium,Yes,3,No,Single,1,Bachelor's,Unemployed,28845,City B,State X
+793,21,Male,Medium,Yes,2,No,Married,2,Master's,Retired,35239,City C,State Y
+794,79,Male,Low,Yes,4,No,Single,1,PhD,Self-Employed,41411,City D,State Z
+795,79,Female,Low,Yes,0,No,Divorced,2,Master's,Employed,46655,City A,State X
+796,34,Other,Medium,Yes,2,No,Married,2,High School,Self-Employed,28426,City B,State Y
+797,21,Female,Medium,No,8,No,Divorced,1,Master's,Unemployed,43862,City D,State Z
+798,59,Other,High,No,1,Yes,Single,1,Master's,Employed,72550,City A,State Z
+799,63,Other,High,No,1,No,Single,3,PhD,Unemployed,36510,City B,State Z
+800,63,Other,Medium,Yes,4,Yes,Divorced,2,High School,Self-Employed,22104,City D,State Y
+801,36,Female,Medium,No,6,No,Divorced,2,PhD,Retired,93779,City C,State Z
+802,46,Male,Low,No,6,Yes,Single,2,Bachelor's,Employed,20174,City A,State Z
+803,68,Male,Low,No,1,Yes,Married,2,Bachelor's,Employed,93127,City A,State Y
+804,34,Male,High,Yes,9,No,Single,3,PhD,Employed,47832,City D,State Y
+805,53,Female,Medium,Yes,5,No,Married,3,High School,Retired,50958,City A,State Z
+806,38,Other,High,No,5,Yes,Married,1,Bachelor's,Self-Employed,30584,City B,State Y
+807,57,Other,High,No,6,Yes,Divorced,1,Master's,Unemployed,35559,City D,State Z
+808,29,Female,Low,Yes,3,No,Single,4,Master's,Unemployed,23523,City C,State Y
+809,49,Male,Medium,No,5,No,Married,1,Bachelor's,Unemployed,80692,City C,State Y
+810,21,Other,High,Yes,4,No,Married,3,High School,Retired,14628,City C,State Z
+811,59,Female,Medium,Yes,4,Yes,Divorced,4,PhD,Employed,59026,City D,State Y
+812,54,Female,Low,Yes,4,No,Married,0,Bachelor's,Retired,34100,City C,State Z
+813,59,Other,Low,Yes,8,No,Single,2,Bachelor's,Employed,36785,City B,State X
+814,70,Female,Medium,Yes,5,Yes,Single,3,PhD,Retired,89019,City A,State X
+815,48,Male,Low,No,2,Yes,Married,0,High School,Retired,24479,City C,State Z
+816,68,Female,Low,No,10,No,Single,2,PhD,Self-Employed,99136,City A,State X
+817,74,Other,Medium,Yes,4,No,Married,4,Bachelor's,Self-Employed,39593,City D,State X
+818,40,Female,Low,No,4,No,Single,1,Master's,Retired,47686,City D,State Y
+819,21,Other,High,No,2,No,Single,3,High School,Retired,30203,City B,State Z
+820,37,Female,Medium,Yes,4,No,Married,0,High School,Retired,31579,City B,State Y
+821,75,Other,Low,No,0,No,Single,2,Master's,Employed,91404,City C,State Z
+822,23,Other,Low,No,9,No,Married,0,Bachelor's,Self-Employed,15156,City A,State Y
+823,20,Male,High,Yes,10,No,Married,1,PhD,Unemployed,32927,City B,State X
+824,46,Male,High,Yes,10,No,Single,3,Master's,Employed,76367,City D,State Z
+825,71,Other,High,No,3,No,Divorced,3,PhD,Employed,58888,City A,State Z
+826,56,Male,High,Yes,5,No,Married,2,Bachelor's,Employed,46540,City D,State Z
+827,66,Other,High,No,9,No,Single,4,PhD,Employed,94760,City C,State Z
+828,28,Male,Medium,No,5,No,Divorced,3,Bachelor's,Unemployed,51445,City D,State Z
+829,52,Male,High,Yes,9,Yes,Single,2,PhD,Retired,85263,City B,State X
+830,80,Female,High,No,6,Yes,Married,2,PhD,Unemployed,67670,City C,State Z
+831,64,Male,Medium,Yes,6,Yes,Single,3,Master's,Employed,51555,City B,State Z
+832,46,Other,High,Yes,0,No,Divorced,4,High School,Retired,88791,City A,State Y
+833,29,Male,Medium,Yes,1,Yes,Divorced,4,Master's,Unemployed,84776,City D,State Z
+834,54,Other,Low,Yes,1,Yes,Divorced,0,High School,Self-Employed,13125,City D,State Z
+835,65,Male,High,No,9,Yes,Single,0,Master's,Self-Employed,67788,City B,State Y
+836,64,Female,Low,No,10,Yes,Married,1,PhD,Unemployed,86256,City B,State Y
+837,67,Other,Low,No,1,Yes,Divorced,1,Master's,Employed,85904,City B,State X
+838,64,Female,High,No,3,Yes,Married,1,Bachelor's,Retired,21054,City D,State Y
+839,71,Male,Low,No,1,Yes,Divorced,0,Bachelor's,Unemployed,53396,City A,State Y
+840,76,Female,Medium,Yes,2,Yes,Single,2,Bachelor's,Employed,52518,City C,State X
+841,26,Male,Medium,Yes,3,No,Single,3,PhD,Self-Employed,46880,City D,State X
+842,39,Male,Medium,No,8,No,Single,3,Bachelor's,Unemployed,85482,City B,State X
+843,29,Other,High,No,6,No,Divorced,2,Bachelor's,Employed,48984,City D,State Y
+844,38,Female,Low,Yes,6,Yes,Single,3,Bachelor's,Unemployed,85096,City D,State Z
+845,75,Female,Low,No,8,No,Divorced,3,High School,Retired,39442,City D,State Z
+846,35,Male,Low,No,8,Yes,Single,4,High School,Unemployed,52151,City A,State Z
+847,44,Female,High,Yes,9,Yes,Single,1,Master's,Unemployed,42731,City D,State Y
+848,57,Other,High,Yes,6,Yes,Married,1,PhD,Self-Employed,38777,City C,State Y
+849,26,Male,High,Yes,4,Yes,Married,0,High School,Self-Employed,82692,City D,State Z
+850,56,Other,Medium,Yes,1,Yes,Divorced,0,Master's,Employed,12068,City B,State Z
+851,20,Male,Medium,No,5,No,Single,3,PhD,Employed,28964,City D,State X
+852,47,Female,Medium,No,9,No,Married,3,High School,Unemployed,69450,City A,State Y
+853,43,Other,Medium,Yes,2,No,Divorced,4,Master's,Retired,84558,City C,State Y
+854,55,Other,Low,Yes,5,Yes,Divorced,2,High School,Self-Employed,52700,City B,State Z
+855,20,Other,Medium,No,3,No,Divorced,2,Bachelor's,Unemployed,45789,City A,State X
+856,42,Female,Medium,No,0,Yes,Single,3,Master's,Unemployed,46617,City C,State X
+857,39,Other,High,No,0,No,Divorced,2,High School,Employed,45971,City B,State Y
+858,64,Female,Medium,Yes,3,Yes,Married,3,Bachelor's,Self-Employed,90618,City A,State Z
+859,63,Male,Medium,Yes,8,Yes,Divorced,1,Bachelor's,Retired,26638,City A,State X
+860,24,Male,Low,Yes,2,Yes,Divorced,3,PhD,Self-Employed,68815,City C,State X
+861,52,Other,Low,Yes,6,Yes,Divorced,0,High School,Unemployed,34322,City D,State Y
+862,67,Female,Medium,Yes,10,No,Single,1,Master's,Self-Employed,42189,City A,State X
+863,76,Male,Medium,Yes,1,Yes,Divorced,2,PhD,Self-Employed,24149,City A,State Y
+864,76,Male,Low,Yes,8,Yes,Married,3,PhD,Unemployed,85193,City D,State Z
+865,50,Male,High,No,0,No,Divorced,3,High School,Retired,15823,City C,State Y
+866,43,Other,Medium,Yes,3,Yes,Married,2,Master's,Employed,94127,City A,State Y
+867,59,Male,High,Yes,8,No,Single,0,PhD,Self-Employed,10374,City D,State X
+868,26,Male,Medium,Yes,1,No,Married,2,High School,Self-Employed,99746,City D,State X
+869,50,Other,Medium,No,4,No,Married,2,Bachelor's,Employed,91939,City D,State Y
+870,40,Female,Low,Yes,9,No,Single,0,PhD,Self-Employed,20627,City D,State X
+871,61,Female,Medium,No,1,Yes,Divorced,3,High School,Employed,66354,City A,State Y
+872,73,Other,Low,Yes,8,No,Divorced,3,Bachelor's,Retired,85720,City C,State X
+873,59,Other,Medium,No,0,No,Married,1,PhD,Unemployed,60860,City D,State Y
+874,41,Male,Low,No,7,No,Married,3,Master's,Employed,69113,City C,State X
+875,59,Female,High,Yes,4,No,Divorced,3,PhD,Employed,86199,City B,State Y
+876,66,Female,Low,Yes,9,Yes,Divorced,1,Master's,Unemployed,67222,City D,State Z
+877,35,Male,Medium,No,2,No,Single,1,PhD,Retired,86604,City C,State Y
+878,53,Female,High,Yes,0,Yes,Married,2,Master's,Employed,92698,City A,State Z
+879,67,Other,High,No,7,No,Single,3,Bachelor's,Self-Employed,45592,City C,State Y
+880,31,Female,Medium,Yes,3,Yes,Married,0,PhD,Unemployed,97334,City B,State X
+881,56,Other,High,No,10,No,Single,4,PhD,Employed,72535,City A,State Y
+882,75,Female,High,Yes,4,Yes,Divorced,4,Bachelor's,Retired,24055,City C,State Y
+883,31,Other,High,No,10,No,Single,3,PhD,Employed,95472,City D,State X
+884,65,Male,Medium,No,2,No,Divorced,3,High School,Retired,71803,City A,State Z
+885,75,Male,Low,No,5,No,Single,2,PhD,Retired,13060,City D,State X
+886,50,Female,High,Yes,1,Yes,Married,0,PhD,Unemployed,68527,City A,State Z
+887,39,Other,High,No,9,No,Single,3,PhD,Self-Employed,78151,City A,State Z
+888,25,Other,Low,Yes,4,No,Divorced,0,Bachelor's,Employed,59288,City D,State Z
+889,70,Female,High,Yes,7,No,Married,4,Bachelor's,Retired,45989,City D,State Y
+890,52,Other,High,No,4,Yes,Divorced,1,High School,Employed,71952,City A,State Y
+891,67,Other,High,Yes,10,No,Single,4,Master's,Self-Employed,24652,City B,State Z
+892,40,Male,Medium,No,7,No,Single,3,High School,Self-Employed,53496,City C,State Y
+893,35,Male,Low,No,7,Yes,Single,3,Bachelor's,Unemployed,11246,City B,State Y
+894,52,Other,Medium,No,6,No,Married,2,Master's,Self-Employed,39405,City A,State X
+895,75,Male,High,No,3,No,Divorced,1,High School,Retired,35893,City B,State X
+896,45,Female,High,Yes,3,Yes,Married,4,PhD,Employed,98834,City C,State X
+897,37,Other,Medium,No,8,No,Married,2,PhD,Unemployed,36448,City B,State Z
+898,65,Male,Low,Yes,6,No,Single,2,Master's,Self-Employed,10868,City C,State Z
+899,34,Male,Medium,Yes,4,No,Divorced,4,PhD,Employed,19849,City A,State Y
+900,37,Female,High,No,2,Yes,Single,3,Master's,Unemployed,88323,City B,State X
+901,68,Male,High,No,6,No,Single,0,High School,Retired,14621,City D,State Y
+902,57,Female,High,Yes,4,No,Married,0,High School,Retired,13396,City A,State Z
+903,64,Other,Low,No,10,Yes,Married,0,Bachelor's,Retired,29393,City D,State Z
+904,49,Other,High,Yes,10,Yes,Married,2,PhD,Self-Employed,40291,City B,State X
+905,53,Male,High,Yes,10,No,Married,2,Bachelor's,Unemployed,92067,City A,State Z
+906,69,Other,Low,Yes,7,Yes,Married,0,PhD,Unemployed,46547,City B,State Z
+907,41,Other,Low,Yes,2,Yes,Divorced,0,High School,Unemployed,99220,City C,State Y
+908,41,Other,Low,Yes,8,Yes,Divorced,3,PhD,Unemployed,13499,City B,State Y
+909,64,Other,Medium,No,0,Yes,Married,2,Bachelor's,Self-Employed,39428,City A,State X
+910,80,Other,Medium,No,2,No,Divorced,2,Bachelor's,Retired,98328,City B,State Z
+911,47,Female,High,Yes,0,No,Single,2,High School,Self-Employed,53798,City B,State X
+912,41,Female,Medium,No,1,No,Married,0,PhD,Employed,55294,City D,State Y
+913,30,Other,Medium,Yes,0,Yes,Single,1,PhD,Self-Employed,17465,City C,State Y
+914,18,Other,Medium,Yes,10,Yes,Divorced,0,High School,Unemployed,71192,City B,State X
+915,72,Male,Low,Yes,3,Yes,Single,3,Master's,Unemployed,58070,City C,State X
+916,53,Male,Medium,No,4,No,Married,1,Bachelor's,Unemployed,24369,City B,State X
+917,27,Male,Medium,No,0,No,Single,0,High School,Unemployed,96348,City A,State Y
+918,71,Female,Low,No,1,Yes,Single,3,PhD,Employed,14907,City A,State Z
+919,43,Female,High,No,4,No,Divorced,2,Bachelor's,Retired,23621,City D,State Y
+920,26,Other,Medium,Yes,8,No,Married,4,Master's,Self-Employed,67056,City A,State X
+921,34,Male,High,No,7,Yes,Married,2,PhD,Unemployed,70218,City D,State X
+922,56,Male,High,Yes,9,No,Divorced,3,Master's,Self-Employed,77825,City A,State X
+923,64,Female,High,No,2,No,Married,2,PhD,Unemployed,82204,City A,State X
+924,32,Other,Low,No,10,Yes,Married,3,Bachelor's,Employed,74005,City C,State Z
+925,48,Female,Medium,Yes,0,No,Married,1,High School,Employed,57565,City B,State Y
+926,48,Female,Medium,Yes,3,Yes,Single,2,Bachelor's,Employed,68336,City A,State Y
+927,49,Male,Low,Yes,2,Yes,Single,0,PhD,Retired,59742,City A,State Z
+928,44,Other,Medium,Yes,6,Yes,Divorced,0,Master's,Retired,26804,City C,State X
+929,50,Other,Medium,No,10,No,Single,2,High School,Employed,69573,City A,State X
+930,60,Female,High,No,9,Yes,Married,0,Master's,Employed,91887,City D,State Y
+931,43,Other,Medium,Yes,7,No,Single,1,High School,Unemployed,22624,City A,State Y
+932,74,Female,Low,Yes,4,Yes,Divorced,4,Master's,Employed,69319,City C,State X
+933,65,Female,Low,No,10,No,Married,4,Bachelor's,Unemployed,18738,City B,State X
+934,51,Female,Low,Yes,2,Yes,Married,4,Bachelor's,Unemployed,53383,City D,State Y
+935,53,Male,High,No,3,Yes,Single,2,Master's,Employed,12758,City B,State X
+936,79,Male,Medium,Yes,1,Yes,Married,1,High School,Self-Employed,58619,City C,State Z
+937,79,Female,High,No,4,Yes,Married,3,High School,Retired,13648,City D,State X
+938,28,Other,Low,No,3,No,Married,1,High School,Retired,76133,City A,State X
+939,28,Female,High,No,1,Yes,Married,0,PhD,Self-Employed,67849,City C,State X
+940,74,Female,Medium,No,0,No,Divorced,2,PhD,Employed,98062,City C,State X
+941,23,Female,Low,No,9,Yes,Single,3,Master's,Employed,87722,City C,State Y
+942,79,Other,Low,Yes,9,No,Single,0,PhD,Employed,66907,City C,State Y
+943,37,Other,High,Yes,2,Yes,Single,1,Master's,Employed,86489,City B,State Y
+944,50,Female,High,No,5,No,Married,3,Bachelor's,Retired,74235,City A,State Y
+945,46,Other,Medium,Yes,5,Yes,Divorced,2,High School,Retired,34868,City D,State Z
+946,28,Female,Medium,Yes,0,No,Married,4,Master's,Self-Employed,41589,City B,State Z
+947,51,Female,Medium,Yes,7,Yes,Married,1,High School,Self-Employed,75891,City B,State Y
+948,45,Male,High,No,9,No,Married,1,Bachelor's,Self-Employed,72800,City B,State Y
+949,77,Other,Low,Yes,8,Yes,Married,3,Master's,Self-Employed,98450,City B,State Z
+950,54,Other,Low,No,7,No,Married,0,PhD,Self-Employed,36211,City B,State Z
+951,21,Other,Medium,No,6,Yes,Divorced,1,PhD,Employed,85363,City B,State Z
+952,71,Other,Medium,Yes,3,Yes,Divorced,1,High School,Retired,88717,City C,State Z
+953,56,Female,High,Yes,8,Yes,Single,4,Master's,Self-Employed,68024,City D,State X
+954,53,Female,High,Yes,0,No,Married,0,High School,Unemployed,71096,City C,State Z
+955,46,Other,Low,Yes,6,No,Divorced,3,Master's,Employed,42011,City C,State Z
+956,20,Other,Low,Yes,7,Yes,Divorced,0,PhD,Employed,99491,City B,State Z
+957,70,Female,Medium,No,1,No,Married,3,High School,Retired,39327,City B,State Y
+958,63,Other,Low,No,5,No,Married,3,Bachelor's,Self-Employed,74308,City A,State Z
+959,51,Female,High,Yes,5,Yes,Divorced,1,PhD,Self-Employed,41921,City D,State Z
+960,43,Male,Low,No,2,No,Divorced,4,Bachelor's,Unemployed,93869,City B,State Z
+961,23,Other,High,Yes,4,Yes,Married,2,High School,Unemployed,23758,City A,State X
+962,18,Other,High,No,5,Yes,Single,3,Bachelor's,Self-Employed,91673,City B,State Z
+963,76,Other,High,No,3,Yes,Single,0,High School,Unemployed,17259,City B,State X
+964,41,Male,Low,No,9,Yes,Married,2,High School,Retired,57924,City C,State X
+965,61,Female,Low,No,3,Yes,Married,2,Master's,Retired,65430,City D,State Y
+966,79,Female,Low,No,10,No,Divorced,3,Master's,Employed,26826,City B,State Z
+967,30,Other,Medium,Yes,8,Yes,Married,3,High School,Unemployed,64007,City A,State X
+968,49,Female,Medium,Yes,1,Yes,Single,3,High School,Retired,68916,City B,State Z
+969,61,Female,Medium,No,10,Yes,Single,1,Master's,Retired,83854,City A,State X
+970,28,Male,High,Yes,0,Yes,Divorced,0,Bachelor's,Employed,41815,City B,State Z
+971,53,Female,High,No,6,Yes,Divorced,2,Master's,Retired,86924,City C,State Y
+972,80,Other,Medium,Yes,5,Yes,Single,3,PhD,Self-Employed,80633,City A,State Z
+973,57,Other,High,No,3,Yes,Single,0,Master's,Employed,28901,City A,State Z
+974,23,Female,High,Yes,6,No,Single,2,PhD,Self-Employed,83459,City B,State Y
+975,54,Other,High,Yes,4,No,Divorced,1,Master's,Employed,28586,City A,State X
+976,32,Female,Medium,No,8,Yes,Single,1,High School,Unemployed,29198,City C,State X
+977,18,Female,Low,Yes,9,No,Married,0,Bachelor's,Self-Employed,74581,City A,State Y
+978,36,Other,Medium,Yes,8,No,Married,3,PhD,Retired,76850,City B,State X
+979,60,Other,High,No,5,Yes,Divorced,2,Bachelor's,Self-Employed,37816,City C,State Y
+980,59,Male,High,No,10,No,Single,0,Master's,Self-Employed,66090,City B,State X
+981,40,Other,Medium,Yes,0,Yes,Single,4,Master's,Unemployed,28059,City D,State Y
+982,64,Other,Medium,Yes,2,No,Married,4,PhD,Self-Employed,68078,City C,State Z
+983,60,Male,Low,Yes,6,No,Married,3,Bachelor's,Self-Employed,98108,City A,State Z
+984,57,Other,Low,No,8,No,Divorced,1,Master's,Unemployed,57206,City A,State Y
+985,55,Other,High,No,4,No,Divorced,2,Master's,Employed,60401,City D,State X
+986,68,Male,Medium,Yes,10,Yes,Divorced,0,Master's,Self-Employed,77555,City B,State X
+987,72,Female,High,Yes,2,No,Single,2,PhD,Employed,35160,City A,State Y
+988,20,Male,Low,No,1,No,Divorced,0,Bachelor's,Retired,42692,City D,State Y
+989,68,Female,High,No,3,Yes,Married,0,Bachelor's,Retired,72749,City A,State Y
+990,18,Other,Medium,Yes,3,No,Divorced,1,Bachelor's,Employed,79537,City A,State X
+991,65,Female,High,Yes,3,Yes,Divorced,3,Master's,Retired,49310,City A,State Z
+992,69,Other,Low,No,4,No,Single,0,Master's,Self-Employed,69744,City B,State Y
+993,79,Other,Low,No,9,No,Single,3,Bachelor's,Retired,79516,City A,State Y
+994,61,Female,Low,No,3,Yes,Married,2,Master's,Employed,12984,City B,State Y
+995,32,Other,Low,No,8,No,Single,1,Master's,Unemployed,55069,City D,State X
+996,49,Male,Medium,No,2,No,Married,3,PhD,Unemployed,12351,City C,State Z
+997,71,Female,High,No,3,No,Single,2,Master's,Retired,57460,City C,State X
+998,36,Male,High,No,1,No,Divorced,2,High School,Unemployed,70595,City A,State Z
+999,74,Female,Medium,Yes,4,Yes,Divorced,2,High School,Unemployed,90197,City B,State Z
+1000,30,Other,Low,No,7,Yes,Divorced,1,Master's,Unemployed,93786,City B,State X
+1001,43,Male,Medium,Yes,3,Yes,Married,4,High School,Retired,23754,City A,State X
+1002,72,Other,High,Yes,0,Yes,Divorced,0,Master's,Unemployed,96203,City C,State Z
+1003,54,Other,Low,No,3,Yes,Divorced,3,PhD,Unemployed,17960,City D,State Z
+1004,71,Other,Low,No,4,No,Divorced,4,Bachelor's,Self-Employed,63412,City B,State Y
+1005,48,Male,Medium,Yes,2,No,Married,1,PhD,Employed,13407,City C,State Z
+1006,18,Other,High,Yes,6,No,Divorced,0,Bachelor's,Self-Employed,73848,City D,State Z
+1007,24,Female,Medium,Yes,5,Yes,Married,3,Master's,Retired,70262,City C,State X
+1008,43,Other,High,Yes,10,Yes,Divorced,1,Master's,Unemployed,81588,City C,State Z
+1009,24,Female,Medium,No,3,No,Divorced,3,High School,Unemployed,19452,City C,State Y
+1010,76,Female,Medium,No,2,No,Single,2,PhD,Retired,46235,City A,State X
+1011,73,Female,High,Yes,5,No,Single,3,PhD,Employed,62740,City C,State X
+1012,73,Male,Low,No,10,Yes,Single,4,High School,Unemployed,31681,City D,State Y
+1013,77,Male,Medium,No,9,Yes,Divorced,1,PhD,Employed,72747,City D,State Y
+1014,49,Other,Low,Yes,1,No,Single,0,Bachelor's,Employed,46750,City D,State Y
+1015,46,Male,Low,No,10,No,Divorced,1,PhD,Unemployed,56936,City B,State Z
+1016,42,Other,Medium,Yes,1,Yes,Divorced,0,PhD,Employed,64407,City B,State Y
+1017,43,Other,High,No,5,No,Single,1,PhD,Retired,75813,City C,State X
+1018,58,Female,High,Yes,5,No,Married,2,High School,Unemployed,15586,City B,State Y
+1019,49,Female,High,No,6,Yes,Divorced,0,PhD,Employed,67167,City C,State X
+1020,36,Male,High,Yes,7,Yes,Married,0,High School,Self-Employed,64240,City D,State X
+1021,34,Other,High,Yes,10,Yes,Divorced,4,PhD,Self-Employed,81569,City A,State Z
+1022,31,Male,Low,No,1,No,Single,2,Master's,Self-Employed,48409,City B,State Z
+1023,25,Male,High,No,6,Yes,Single,3,High School,Self-Employed,57489,City C,State Y
+1024,54,Other,Low,No,4,Yes,Single,1,Bachelor's,Retired,93289,City A,State Z
+1025,28,Other,Low,Yes,5,No,Married,2,Master's,Self-Employed,18807,City B,State Y
+1026,65,Other,High,Yes,10,Yes,Single,4,Bachelor's,Retired,18523,City A,State Y
+1027,30,Male,Low,Yes,8,No,Single,0,Bachelor's,Employed,83750,City D,State Y
+1028,27,Other,Medium,No,8,Yes,Married,2,Master's,Employed,72754,City C,State Y
+1029,44,Female,High,No,4,Yes,Single,0,Master's,Employed,43170,City D,State X
+1030,19,Male,High,No,1,Yes,Single,3,Bachelor's,Unemployed,13323,City A,State Z
+1031,24,Other,High,Yes,9,No,Divorced,0,Bachelor's,Self-Employed,83551,City C,State X
+1032,23,Other,Low,No,5,No,Single,2,PhD,Unemployed,74702,City D,State X
+1033,20,Other,High,No,6,No,Divorced,0,Master's,Unemployed,22057,City B,State X
+1034,18,Other,Medium,Yes,0,Yes,Married,4,Bachelor's,Employed,60986,City B,State Z
+1035,36,Other,Medium,No,6,No,Single,1,Bachelor's,Employed,18542,City D,State X
+1036,71,Male,Low,No,8,Yes,Single,0,PhD,Retired,35713,City B,State Z
+1037,44,Other,Medium,No,8,Yes,Single,2,Master's,Self-Employed,57808,City D,State Z
+1038,66,Other,High,No,9,No,Divorced,3,High School,Self-Employed,93976,City A,State X
+1039,37,Male,High,No,8,No,Divorced,0,PhD,Unemployed,61772,City A,State Y
+1040,50,Other,High,No,7,Yes,Single,3,PhD,Self-Employed,31727,City A,State Y
+1041,60,Other,Medium,No,6,Yes,Single,0,Master's,Retired,33540,City D,State X
+1042,75,Female,High,Yes,8,Yes,Married,2,High School,Self-Employed,80333,City B,State Y
+1043,73,Male,High,No,3,Yes,Divorced,0,Bachelor's,Employed,30422,City C,State Z
+1044,58,Other,High,No,1,No,Divorced,4,PhD,Employed,35961,City B,State X
+1045,62,Female,Medium,No,3,No,Single,4,High School,Self-Employed,44924,City A,State X
+1046,29,Other,High,No,3,Yes,Single,1,Bachelor's,Employed,19064,City D,State X
+1047,47,Other,Low,Yes,2,Yes,Divorced,2,Master's,Self-Employed,74654,City B,State Y
+1048,19,Male,Low,Yes,4,Yes,Divorced,4,PhD,Self-Employed,72281,City B,State Z
+1049,25,Other,Low,Yes,2,No,Single,0,High School,Employed,38221,City C,State Y
+1050,51,Female,High,Yes,9,No,Single,2,PhD,Self-Employed,48170,City C,State X
