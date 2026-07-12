@@ -188,4 +188,4 @@ CEI'26 Internship Programme | Major Project
 
 ---
 
-<p align="center"><i>Built with 🛠️ on Databricks · Powered by Delta Lake</i></p>
+<p align="center"><i>Built on Databricks · Powered by Delta Lake</i></p>
